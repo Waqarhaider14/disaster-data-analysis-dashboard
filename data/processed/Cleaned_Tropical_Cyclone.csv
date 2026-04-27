@@ -1,0 +1,685 @@
+Disaster_Event_Id,Alert_Level,Alert_Score,Episode_Alert_Level,Episode_Alert_Score,From_Date,To_Date,Severity,Source,Iso3,Event_Type,GDACS _ID,Name,Country,Exposed_Population,Maximum_Wind_Speed,Category,Vulnerability
+TC_UNK_20080428_2,Red,3,Green,1,4/28/2008,5/3/2008,74.029824,JTWC,,TC,TC 10238,NARGIS-08,Ocean / Sea area,7 million  ,74 km/h ,Tropical Storm,N/A 
+TC_UNK_20110522_3,Orange,2,Green,1,5/22/2011,5/29/2011,64.37376,JRC,JPN,TC,TC 24054,SONGDA-11,Japan,No people  ,64 km/h ,Tropical Storm,Low 
+TC_UNK_20110728_4,Green,1,Green,1,7/28/2011,8/8/2011,286.463232,JRC,JPN,TC,TC 25110,MUIFA-11,Japan,1.2 million  ,286 km/h ,Catastrophic,Low 
+TC_UNK_20110731_5,Green,1,Green,1,7/31/2011,8/6/2011,222.089472,JRC,,TC,TC 25192,EUGENE-11,Ocean / Sea area,No people  ,222 km/h ,Extreme,N/A 
+TC_UNK_20110726_6,Green,1,Green,1,7/26/2011,7/30/2011,120.7008,JRC,CHN,TC,TC 25101,NOCK-TEN-11,China,No people  ,121 km/h ,Minimal,High 
+TC_UNK_20110726_6,Green,1,Green,1,7/26/2011,7/30/2011,120.7008,JRC,PHL,TC,TC 25101,NOCK-TEN-11,Philippines,No people  ,121 km/h ,Minimal,High 
+TC_UNK_20110727_7,Green,1,Green,1,7/27/2011,7/30/2011,101.388672,JRC,MEX,TC,TC 25153,DON-11,Mexico,No people  ,101 km/h ,Tropical Storm,Medium 
+TC_UNK_20110727_7,Green,1,Green,1,7/27/2011,7/30/2011,101.388672,JRC,USA,TC,TC 25153,DON-11,United States,No people  ,101 km/h ,Tropical Storm,Medium 
+TC_UNK_20110718_8,Green,1,Green,1,7/18/2011,7/24/2011,204.386688,JRC,MEX,TC,TC 25008,DORA-11,Mexico,No people  ,204 km/h ,Extensive,Medium 
+TC_CAN_20110830_9,Green,1,Green,1,8/30/2011,9/10/2011,212.433408,JRC,CAN,TC,TC 25669,KATIA-11,Canada,No people  ,212 km/h ,Extreme,Low 
+TC_CAN_20110830_9,Green,1,Green,1,8/30/2011,9/10/2011,212.433408,JRC,GBR,TC,TC 25669,KATIA-11,United Kingdom,No people  ,212 km/h ,Extreme,Low 
+TC_CAN_20110830_9,Green,1,Green,1,8/30/2011,9/10/2011,212.433408,JRC,IMN,TC,TC 25669,KATIA-11,Isle Of Man,No people  ,212 km/h ,Extreme,Low 
+TC_CAN_20110830_9,Green,1,Green,1,8/30/2011,9/10/2011,212.433408,JRC,IRL,TC,TC 25669,KATIA-11,Ireland,No people  ,212 km/h ,Extreme,Low 
+TC_JPN_20110825_10,Green,1,Green,1,8/25/2011,9/4/2011,175.418496,JRC,JPN,TC,TC 25618,TALAS-11,Japan,No people  ,175 km/h ,Moderate,Low 
+TC_CHN_20110823_11,Orange,2,Green,1,8/23/2011,8/31/2011,268.760448,JRC,CHN,TC,TC 25577,NANMADOL-11,China,1.4 million  ,269 km/h ,Catastrophic,Medium 
+TC_CHN_20110823_11,Orange,2,Green,1,8/23/2011,8/31/2011,268.760448,JRC,PHL,TC,TC 25577,NANMADOL-11,Philippines,1.4 million  ,269 km/h ,Catastrophic,Medium 
+TC_UNK_20110828_12,Green,1,Green,1,8/28/2011,8/29/2011,74.029824,JRC,,TC,TC 25662,JOSE-11,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_DOM_20110820_13,Orange,2,Green,1,8/20/2011,8/29/2011,212.433408,JRC,BHS,TC,TC 25532,IRENE-11,Bahamas,31 million  ,212 km/h ,Extreme,Medium 
+TC_DOM_20110820_13,Orange,2,Green,1,8/20/2011,8/29/2011,212.433408,JRC,DOM,TC,TC 25532,IRENE-11,Dominican Republic,31 million  ,212 km/h ,Extreme,Medium 
+TC_DOM_20110820_13,Orange,2,Green,1,8/20/2011,8/29/2011,212.433408,JRC,PRI,TC,TC 25532,IRENE-11,Puerto Rico,31 million  ,212 km/h ,Extreme,Medium 
+TC_DOM_20110820_13,Orange,2,Green,1,8/20/2011,8/29/2011,212.433408,JRC,USA,TC,TC 25532,IRENE-11,United States,31 million  ,212 km/h ,Extreme,Medium 
+TC_UNK_20110825_14,Green,1,Green,1,8/25/2011,8/27/2011,93.341952,JRC,,TC,TC 25619,TEN-11,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_UNK_20110924_15,Green,1,Green,1,9/24/2011,10/9/2011,148.059648,JRC,,TC,TC 26125,PHILIPPE-11,Ocean / Sea area,No people  ,148 km/h ,Minimal,N/A 
+TC_PHL_20110927_16,Orange,2,Green,1,9/27/2011,10/5/2011,241.4016,JRC,PHL,TC,TC 26165,NALGAE-11,Philippines,No people  ,241 km/h ,Extreme,Medium 
+TC_BMU_20110921_17,Green,1,Green,1,9/21/2011,10/3/2011,222.089472,JRC,AIA,TC,TC 26073,OPHELIA-11,Anguilla,No people  ,222 km/h ,Extreme,High 
+TC_BMU_20110921_17,Green,1,Green,1,9/21/2011,10/3/2011,222.089472,JRC,BMU,TC,TC 26073,OPHELIA-11,Bermuda,No people  ,222 km/h ,Extreme,High 
+TC_BMU_20110921_17,Green,1,Green,1,9/21/2011,10/3/2011,222.089472,JRC,CAN,TC,TC 26073,OPHELIA-11,Canada,No people  ,222 km/h ,Extreme,High 
+TC_BMU_20110921_17,Green,1,Green,1,9/21/2011,10/3/2011,222.089472,JRC,DMA,TC,TC 26073,OPHELIA-11,Dominica,No people  ,222 km/h ,Extreme,High 
+TC_BMU_20110921_17,Green,1,Green,1,9/21/2011,10/3/2011,222.089472,JRC,GLP,TC,TC 26073,OPHELIA-11,Guadeloupe,No people  ,222 km/h ,Extreme,High 
+TC_BMU_20110921_17,Green,1,Green,1,9/21/2011,10/3/2011,222.089472,JRC,MSR,TC,TC 26073,OPHELIA-11,Montserrat,No people  ,222 km/h ,Extreme,High 
+TC_MEX_20110921_18,Green,1,Green,1,9/21/2011,9/30/2011,241.4016,JRC,MEX,TC,TC 26076,HILARY-11,Mexico,No people  ,241 km/h ,Extreme,Medium 
+TC_PHL_20110924_19,Orange,2,Green,1,9/24/2011,9/30/2011,241.4016,JRC,PHL,TC,TC 26116,NESAT-11,Philippines,2.4 million  ,241 km/h ,Extreme,Medium 
+TC_UNK_20110925_20,Green,1,Green,1,9/25/2011,9/26/2011,64.37376,JRC,,TC,TC 26129,HAITANG-11,Ocean / Sea area,No people  ,64 km/h ,Tropical Storm,N/A 
+TC_JPN_20110913_21,Green,1,Green,1,9/13/2011,9/21/2011,212.433408,JRC,JPN,TC,TC 25931,ROKE-11,Japan,35 million  ,212 km/h ,Extreme,Low 
+TC_BLZ_20111024_22,Green,1,Green,1,10/24/2011,10/28/2011,194.730624,JRC,BLZ,TC,TC 26557,RINA-11,Belize,No people  ,195 km/h ,Extensive,Medium 
+TC_BLZ_20111024_22,Green,1,Green,1,10/24/2011,10/28/2011,194.730624,JRC,HND,TC,TC 26557,RINA-11,Honduras,No people  ,195 km/h ,Extensive,Medium 
+TC_BLZ_20111024_22,Green,1,Green,1,10/24/2011,10/28/2011,194.730624,JRC,MEX,TC,TC 26557,RINA-11,Mexico,No people  ,195 km/h ,Extensive,Medium 
+TC_IND_20111126_23,Green,1,Green,1,11/26/2011,11/26/2011,101.388672,JRC,IND,TC,TC 27024,FIVE-11,India,No people  ,101 km/h ,Tropical Storm,High 
+TC_UNK_20111120_24,Green,1,Green,1,11/20/2011,11/25/2011,231.745536,JRC,,TC,TC 26956,KENNETH-11,Ocean / Sea area,No people  ,232 km/h ,Extreme,N/A 
+TC_UNK_20111231_25,Green,1,Green,1,12/31/2011,1/4/2012,212.433408,JRC,,TC,TC 27491,BENILDE-12,Ocean / Sea area,No people  ,212 km/h ,Extreme,N/A 
+TC_IND_20111227_26,Orange,2,Green,1,12/27/2011,12/30/2011,130.356864,JRC,IND,TC,TC 27461,THANE-11,India,No people  ,130 km/h ,Minimal,High 
+TC_AUS_20111225_27,Green,1,Green,1,12/25/2011,12/27/2011,83.685888,JRC,AUS,TC,TC 27450,GRANT-11,Australia,No people  ,84 km/h ,Tropical Storm,Low 
+TC_UNK_20120126_28,Green,1,Green,1,1/26/2012,2/2/2012,185.07456,JRC,,TC,TC 27952,IGGY-12,Ocean / Sea area,No people  ,185 km/h ,Extensive,N/A 
+TC_MOZ_20120119_29,Orange,2,Green,1,1/19/2012,1/28/2012,259.104384,JRC,MOZ,TC,TC 27865,FUNSO-12,Mozambique,No people  ,259 km/h ,Catastrophic,High 
+TC_REU_20120229_30,Green,1,Green,1,2/29/2012,3/10/2012,167.371776,JRC,MDG,TC,TC 28552,IRINA-12,Madagascar,No people  ,167 km/h ,Moderate,High 
+TC_REU_20120229_30,Green,1,Green,1,2/29/2012,3/10/2012,167.371776,JRC,MOZ,TC,TC 28552,IRINA-12,Mozambique,No people  ,167 km/h ,Moderate,High 
+TC_REU_20120229_30,Green,1,Green,1,2/29/2012,3/10/2012,167.371776,JRC,ZAF,TC,TC 28552,IRINA-12,South Africa,No people  ,167 km/h ,Moderate,High 
+TC_UNK_20120229_31,Green,1,Green,1,2/29/2012,3/1/2012,101.388672,JRC,,TC,TC 28569,FIFTEEN-12,Ocean / Sea area,No people  ,101 km/h ,Tropical Storm,N/A 
+TC_VNM_20120329_32,Green,1,Green,1,3/29/2012,4/1/2012,148.059648,JRC,VNM,TC,TC 29158,PAKHAR-12,Vietnam,No people  ,148 km/h ,Minimal,High 
+TC_USA_20120526_33,Green,1,Green,1,5/26/2012,5/30/2012,93.341952,JRC,USA,TC,TC 30474,BERYL-12,United States,No people  ,93 km/h ,Tropical Storm,Low 
+TC_GUM_20120522_34,Green,1,Green,1,5/22/2012,5/27/2012,157.715712,JRC,GUM,TC,TC 30383,SANVU-12,Guam,No people  ,158 km/h ,Moderate,Medium 
+TC_MEX_20120522_35,Green,1,Green,1,5/22/2012,5/26/2012,185.07456,JRC,MEX,TC,TC 30374,BUD-12,Mexico,No people  ,185 km/h ,Extensive,Medium 
+TC_UNK_20120519_36,Green,1,Green,1,5/19/2012,5/22/2012,83.685888,JRC,,TC,TC 30349,ALBERTO-12,Ocean / Sea area,No people  ,84 km/h ,Tropical Storm,N/A 
+TC_CHN_20120626_37,Green,1,Green,1,6/26/2012,6/30/2012,111.044736,JRC,CHN,TC,TC 31024,DOKSURI-12,China,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_UNK_20120629_38,Green,1,Green,1,6/29/2012,6/30/2012,74.029824,JRC,,TC,TC 31075,TWENTYONE-12,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_USA_20120623_39,Green,1,Green,1,6/23/2012,6/27/2012,130.356864,JRC,USA,TC,TC 30970,DEBBY-12,United States,No people  ,130 km/h ,Minimal,Low 
+TC_UNK_20120619_40,Green,1,Green,1,6/19/2012,6/22/2012,120.7008,JRC,,TC,TC 30892,CHRIS-12,Ocean / Sea area,No people  ,121 km/h ,Minimal,N/A 
+TC_CHN_20120728_41,Orange,2,Green,1,7/28/2012,8/3/2012,194.730624,JRC,CHN,TC,TC 31574,SAOLA-12,China,8.8 million  ,195 km/h ,Extensive,Medium 
+TC_CHN_20120730_42,Orange,2,Green,1,7/30/2012,8/2/2012,138.403584,JRC,CHN,TC,TC 31589,DAMREY-12,China,20 thousand  ,138 km/h ,Minimal,Medium 
+TC_CHN_20120721_43,Red,3,Red,3,7/21/2012,7/24/2012,212.433408,JRC,CHN,TC,TC 31445,VICENTE-12,China,6.1 million  ,212 km/h ,Extreme,Medium 
+TC_UNK_20120830_44,Green,1,Green,1,8/30/2012,9/11/2012,175.418496,JRC,,TC,TC 32187,LESLIE-12,Ocean / Sea area,No people  ,175 km/h ,Moderate,N/A 
+TC_UNK_20120829_45,Green,1,Green,1,8/29/2012,9/2/2012,175.418496,JRC,,TC,TC 32156,KIRK-12,Ocean / Sea area,No people  ,175 km/h ,Moderate,N/A 
+TC_UNK_20120828_46,Green,1,Green,1,8/28/2012,9/2/2012,138.403584,JRC,,TC,TC 32143,ILEANA-12,Ocean / Sea area,No people  ,138 km/h ,Minimal,N/A 
+TC_USA_20120821_47,Green,1,Green,1,8/21/2012,8/30/2012,175.418496,JRC,USA,TC,TC 32032,ISAAC-12,United States,1.6 million  ,175 km/h ,Moderate,Low 
+TC_CHN_20120819_48,Red,3,Green,1,8/19/2012,8/30/2012,241.4016,JRC,CHN,TC,TC 31997,TEMBIN-12,China,3.8 million  ,241 km/h ,Extreme,Medium 
+TC_JPN_20120820_49,Red,3,Green,1,8/20/2012,8/28/2012,249.44832,JRC,JPN,TC,TC 32007,BOLAVEN-12,Japan,1.2 million  ,249 km/h ,Extreme,Low 
+TC_UNK_20120823_50,Green,1,Green,1,8/23/2012,8/24/2012,111.044736,JRC,,TC,TC 32054,JOYCE-12,Ocean / Sea area,No people  ,111 km/h ,Tropical Storm,N/A 
+TC_PRT_20120912_51,Green,1,Green,1,9/12/2012,10/4/2012,148.059648,JRC,PRT,TC,TC 32517,NADINE-12,Portugal,No people  ,148 km/h ,Minimal,Low 
+TC_JPN_20120920_52,Green,1,Green,1,9/20/2012,9/30/2012,268.760448,JRC,JPN,TC,TC 32686,JELAWAT-12,Japan,No people  ,269 km/h ,Catastrophic,Low 
+TC_MEX_20120928_53,Green,1,Green,1,9/28/2012,9/29/2012,83.685888,JRC,MEX,TC,TC 32845,NORMAN-12,Mexico,No people  ,84 km/h ,Tropical Storm,Medium 
+TC_UNK_20120924_54,Green,1,Green,1,9/24/2012,9/29/2012,111.044736,JRC,,TC,TC 32758,EWINIAR-12,Ocean / Sea area,No people  ,111 km/h ,Tropical Storm,N/A 
+TC_UNK_20120922_55,Green,1,Green,1,9/22/2012,9/28/2012,204.386688,JRC,,TC,TC 32724,MIRIAM-12,Ocean / Sea area,No people  ,204 km/h ,Extensive,N/A 
+TC_UNK_20121030_56,Green,1,Green,1,10/30/2012,11/4/2012,93.341952,JRC,,TC,TC 33424,ROSA-12,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_IND_20121030_57,Orange,2,Orange,2,10/30/2012,10/31/2012,101.388672,JRC,IND,TC,TC 33400,NILAM-12,India,No people  ,101 km/h ,Tropical Storm,High 
+TC_IND_20121030_57,Orange,2,Orange,2,10/30/2012,10/31/2012,101.388672,JRC,LKA,TC,TC 33400,NILAM-12,Sri Lanka,No people  ,101 km/h ,Tropical Storm,High 
+TC_CUB_20121022_58,Orange,2,Green,1,10/22/2012,10/30/2012,167.371776,JRC,BHS,TC,TC 33263,SANDY-12,Bahamas,19.9 million  ,167 km/h ,Moderate,Medium 
+TC_CUB_20121022_58,Orange,2,Green,1,10/22/2012,10/30/2012,167.371776,JRC,CUB,TC,TC 33263,SANDY-12,Cuba,19.9 million  ,167 km/h ,Moderate,Medium 
+TC_CUB_20121022_58,Orange,2,Green,1,10/22/2012,10/30/2012,167.371776,JRC,JAM,TC,TC 33263,SANDY-12,Jamaica,19.9 million  ,167 km/h ,Moderate,Medium 
+TC_CUB_20121022_58,Orange,2,Green,1,10/22/2012,10/30/2012,167.371776,JRC,USA,TC,TC 33263,SANDY-12,United States,19.9 million  ,167 km/h ,Moderate,Medium 
+TC_VNM_20121024_59,Red,3,Orange,2,10/24/2012,10/29/2012,204.386688,JRC,VNM,TC,TC 33292,SON-TINH-12,Viet Nam,7.3 million  ,204 km/h ,Extensive,High 
+TC_PHL_20121127_60,Red,3,Green,1,11/27/2012,12/9/2012,259.104384,JRC,PHL,TC,TC 33913,BOPHA-12,Philippines,7.4 million  ,259 km/h ,Catastrophic,Medium 
+TC_UNK_20121124_61,Green,1,Green,1,11/24/2012,11/25/2012,111.044736,JRC,,TC,TC 33895,BOLDWIN-12,Ocean / Sea area,No people  ,111 km/h ,Tropical Storm,N/A 
+TC_NCL_20121231_62,Green,1,Green,1,12/31/2012,1/2/2013,204.386688,JRC,NCL,TC,TC 34573,FREDA-13,New Caledonia,No people  ,204 km/h ,Extensive,High 
+TC_NCL_20121231_62,Green,1,Green,1,12/31/2012,1/2/2013,204.386688,JRC,SLB,TC,TC 34573,FREDA-13,Solomon Islands,No people  ,204 km/h ,Extensive,High 
+TC_UNK_20121229_63,Green,1,Green,1,12/29/2012,12/30/2012,101.388672,JRC,,TC,TC 34590,MITCHELL-12,Ocean / Sea area,No people  ,101 km/h ,Tropical Storm,N/A 
+TC_UNK_20121225_64,Green,1,Green,1,12/25/2012,12/28/2012,83.685888,JRC,,TC,TC 34484,WUKONG-12,Ocean / Sea area,No people  ,84 km/h ,Tropical Storm,N/A 
+TC_UNK_20121223_65,Green,1,Green,1,12/23/2012,12/24/2012,101.388672,JRC,,TC,TC 34443,FOUR-12,Ocean / Sea area,No people  ,101 km/h ,Tropical Storm,N/A 
+TC_MDG_20130128_66,Green,1,Green,1,1/28/2013,2/3/2013,231.745536,JRC,MDG,TC,TC 35220,FELLENG-13,Madagascar,No people  ,232 km/h ,Extreme,High 
+TC_COK_20130121_67,Green,1,Green,1,1/21/2013,1/27/2013,157.715712,JRC,COK,TC,TC 35091,GARRY-13,Cook Islands,No people  ,158 km/h ,Moderate,Medium 
+TC_UNK_20130123_68,Green,1,Green,1,1/23/2013,1/23/2013,74.029824,JRC,,TC,TC 35142,PETA-13,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_AUS_20130224_69,Green,1,Green,1,2/24/2013,2/27/2013,212.433408,JRC,AUS,TC,TC 35931,RUSTY-13,Australia,Few people  ,212 km/h ,Extreme,Low 
+TC_UNK_20130224_70,Green,1,Green,1,2/24/2013,2/27/2013,130.356864,JRC,,TC,TC 35941,EIGHTEEN-13,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_MDG_20130219_71,Orange,2,Green,1,2/19/2013,2/25/2013,185.07456,JRC,MDG,TC,TC 35803,HARUNA-13,Madagascar,790 thousand  ,185 km/h ,Extensive,High 
+TC_AUS_20130430_72,Green,1,Green,1,4/30/2013,4/30/2013,157.715712,JRC,AUS,TC,TC 37488,ZANE-13,Australia,No people  ,158 km/h ,Moderate,Low 
+TC_MEX_20130528_73,Orange,2,Green,1,5/28/2013,5/30/2013,120.7008,JRC,MEX,TC,TC 38075,BARBARA-13,Mexico,250 thousand  ,121 km/h ,Minimal,Medium 
+TC_UNK_20130630_74,Green,1,Green,1,6/30/2013,7/7/2013,130.356864,JRC,,TC,TC 38661,DALILA-13,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_CHN_20130628_75,Green,1,Green,1,6/28/2013,7/2/2013,120.7008,JRC,CHN,TC,TC 38620,RUMBIA-13,China,No people  ,121 km/h ,Minimal,Medium 
+TC_CHN_20130628_75,Green,1,Green,1,6/28/2013,7/2/2013,120.7008,JRC,PHL,TC,TC 38620,RUMBIA-13,Philippines,No people  ,121 km/h ,Minimal,Medium 
+TC_MEX_20130624_76,Green,1,Green,1,6/24/2013,6/27/2013,138.403584,JRC,MEX,TC,TC 38549,COSME-13,Mexico,No people  ,138 km/h ,Minimal,Medium 
+TC_UNK_20130621_77,Green,1,Green,1,6/21/2013,6/23/2013,83.685888,JRC,,TC,TC 38510,BEBINCA-13,Ocean / Sea area,No people  ,84 km/h ,Tropical Storm,N/A 
+TC_MEX_20130619_78,Green,1,Green,1,6/19/2013,6/21/2013,74.029824,JRC,MEX,TC,TC 38445,BARRY-13,Mexico,No people  ,74 km/h ,Tropical Storm,Medium 
+TC_UNK_20130730_79,Green,1,Green,1,7/30/2013,8/7/2013,157.715712,JRC,,TC,TC 39211,GIL-13,Ocean / Sea area,No people  ,158 km/h ,Moderate,N/A 
+TC_UNK_20130724_80,Green,1,Green,1,7/24/2013,8/3/2013,111.044736,JRC,,TC,TC 39074,DORIAN-13,Ocean / Sea area,No people  ,111 km/h ,Tropical Storm,N/A 
+TC_CHN_20130731_81,Orange,2,Orange,2,7/31/2013,8/3/2013,111.044736,JRC,CHN,TC,TC 39225,JEBI-13,China,No people  ,111 km/h ,Tropical Storm,High 
+TC_CHN_20130731_81,Orange,2,Orange,2,7/31/2013,8/3/2013,111.044736,JRC,VNM,TC,TC 39225,JEBI-13,Viet Nam,No people  ,111 km/h ,Tropical Storm,High 
+TC_USA_20130725_82,Green,1,Green,1,7/25/2013,7/30/2013,111.044736,JRC,USA,TC,TC 39097,FLOSSIE-13,United States,No people  ,111 km/h ,Tropical Storm,Low 
+TC_UNK_20130831_83,Green,1,Green,1,8/31/2013,9/2/2013,120.7008,JRC,,TC,TC 39765,KIKO-13,Ocean / Sea area,No people  ,121 km/h ,Minimal,N/A 
+TC_CHN_20130826_84,Green,1,Green,1,8/26/2013,8/31/2013,120.7008,JRC,CHN,TC,TC 39673,KONG-REY-13,China,No people  ,121 km/h ,Minimal,Medium 
+TC_MEX_20130828_85,Green,1,Green,1,8/28/2013,8/30/2013,83.685888,JRC,MEX,TC,TC 39726,JULIETTE-13,Mexico,No people  ,84 km/h ,Tropical Storm,Medium 
+TC_MEX_20130825_86,Green,1,Green,1,8/25/2013,8/26/2013,93.341952,JRC,MEX,TC,TC 39669,FERNAND-13,Mexico,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_MEX_20130823_87,Green,1,Green,1,8/23/2013,8/25/2013,83.685888,JRC,MEX,TC,TC 39613,IVO-13,Mexico,No people  ,84 km/h ,Tropical Storm,Medium 
+TC_UNK_20130816_88,Green,1,Green,1,8/16/2013,8/25/2013,194.730624,JRC,,TC,TC 39505,PEWA-13,Ocean / Sea area,No people  ,195 km/h ,Extensive,N/A 
+TC_CHN_20130930_89,Orange,2,Green,1,9/30/2013,10/6/2013,194.730624,JRC,CHN,TC,TC 40330,FITOW-13,China,10.2 million  ,195 km/h ,Extensive,Medium 
+TC_CHN_20130930_89,Orange,2,Green,1,9/30/2013,10/6/2013,194.730624,JRC,JPN,TC,TC 40330,FITOW-13,Japan,10.2 million  ,195 km/h ,Extensive,Medium 
+TC_UNK_20130930_90,Green,1,Green,1,9/30/2013,10/3/2013,93.341952,JRC,,TC,TC 40303,JERRY-13,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_UNK_20130930_91,Green,1,Green,1,9/30/2013,10/2/2013,74.029824,JRC,,TC,TC 40323,SEPAT-13,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_LAO_20130927_92,Orange,2,Orange,2,9/27/2013,9/30/2013,194.730624,JRC,THA,TC,TC 40266,WUTIP-13,Thailand,2.8 million  ,195 km/h ,Extensive,High 
+TC_LAO_20130927_92,Orange,2,Orange,2,9/27/2013,9/30/2013,194.730624,JRC,VNM,TC,TC 40266,WUTIP-13,Viet Nam,2.8 million  ,195 km/h ,Extensive,High 
+TC_UNK_20130921_93,Green,1,Green,1,9/21/2013,9/26/2013,167.371776,JRC,,TC,TC 40160,PABUK-13,Ocean / Sea area,No people  ,167 km/h ,Moderate,N/A 
+TC_PHL_20131029_94,Orange,2,Green,1,10/29/2013,11/4/2013,185.07456,JRC,PHL,TC,TC 40957,KROSA-13,Philippines,1 million  ,185 km/h ,Extensive,Medium 
+TC_MEX_20131020_95,Green,1,Green,1,10/20/2013,10/30/2013,204.386688,JRC,MEX,TC,TC 40771,RAYMOND-13,Mexico,No people  ,204 km/h ,Extensive,Medium 
+TC_UNK_20131027_96,Green,1,Green,1,10/27/2013,10/28/2013,64.37376,JRC,,TC,TC 40921,ONE-13,Ocean / Sea area,No people  ,64 km/h ,Tropical Storm,N/A 
+TC_UNK_20131020_97,Green,1,Green,1,10/20/2013,10/26/2013,268.760448,JRC,,TC,TC 40785,LEKIMA-13,Ocean / Sea area,No people  ,269 km/h ,Catastrophic,N/A 
+TC_JPN_20131016_98,Green,1,Green,1,10/16/2013,10/25/2013,268.760448,JRC,GUM,TC,TC 40669,FRANCISCO-13,Guam,No people  ,269 km/h ,Catastrophic,Medium 
+TC_JPN_20131016_98,Green,1,Green,1,10/16/2013,10/25/2013,268.760448,JRC,JPN,TC,TC 40669,FRANCISCO-13,Japan,No people  ,269 km/h ,Catastrophic,Medium 
+TC_UNK_20131021_99,Green,1,Green,1,10/21/2013,10/24/2013,83.685888,JRC,,TC,TC 40807,LORENZO-13,Ocean / Sea area,No people  ,84 km/h ,Tropical Storm,N/A 
+TC_IND_20131124_100,Orange,2,Green,1,11/24/2013,11/28/2013,185.07456,JRC,IND,TC,TC 41483,LEHAR-13,India,No people  ,185 km/h ,Extensive,High 
+TC_AUS_20131122_101,Green,1,Green,1,11/22/2013,11/27/2013,93.341952,JRC,AUS,TC,TC 41456,ALESSIA-13,Australia,No people  ,93 km/h ,Tropical Storm,Low 
+TC_REU_20131231_102,Red,3,Green,1,12/31/2013,1/5/2014,212.433408,JRC,REU,TC,TC 42161,BEJISA-14,Miscellaneous (French) Indian Ocean Islands,370 thousand  ,212 km/h ,Extreme,Medium 
+TC_AUS_20131228_103,Green,1,Green,1,12/28/2013,12/30/2013,148.059648,JRC,AUS,TC,TC 42135,CHRISTINE-13,Australia,No people  ,148 km/h ,Minimal,Low 
+TC_UNK_20131218_104,Green,1,Green,1,12/18/2013,12/24/2013,259.104384,JRC,,TC,TC 41942,BRUCE-13,Ocean / Sea area,No people  ,259 km/h ,Catastrophic,N/A 
+TC_MUS_20131216_105,Green,1,Green,1,12/16/2013,12/23/2013,241.4016,JRC,MUS,TC,TC 41924,AMARA-13,Mauritius,No people  ,241 km/h ,Extreme,Medium 
+TC_UNK_20140131_106,Green,1,Green,1,1/31/2014,2/1/2014,64.37376,JRC,,TC,TC 42825,KAJIKI-14,Ocean / Sea area,No people  ,64 km/h ,Tropical Storm,N/A 
+TC_AUS_20140130_107,Green,1,Green,1,1/30/2014,1/31/2014,101.388672,JRC,AUS,TC,TC 42794,DYLAN-14,Australia,No people  ,101 km/h ,Tropical Storm,Low 
+TC_UNK_20140228_108,Green,1,Green,1,2/28/2014,3/5/2014,148.059648,JRC,,TC,TC 43343,FAXAI-14,Ocean / Sea area,No people  ,148 km/h ,Minimal,N/A 
+TC_UNK_20140219_109,Green,1,Green,1,2/19/2014,2/22/2014,175.418496,JRC,,TC,TC 43179,GUITO-14,Ocean / Sea area,No people  ,175 km/h ,Moderate,N/A 
+TC_MDG_20140329_110,Orange,2,Green,1,3/29/2014,4/1/2014,259.104384,JRC,MDG,TC,TC 44086,HELLEN-14,Madagascar,130 thousand  ,259 km/h ,Catastrophic,High 
+TC_CXR_20140308_111,Green,1,Green,1,3/8/2014,3/25/2014,259.104384,JRC,CXR,TC,TC 43511,GILLIAN-14,Christmas Island,No people  ,259 km/h ,Catastrophic,
+TC_UNK_20140428_112,Green,1,Green,1,4/28/2014,5/1/2014,138.403584,JRC,,TC,TC 45038,TAPAH-14,Ocean / Sea area,No people  ,138 km/h ,Minimal,N/A 
+TC_UNK_20140523_113,Green,1,Green,1,5/23/2014,5/29/2014,249.44832,JRC,,TC,TC 45656,AMANDA-14,Ocean / Sea area,No people  ,249 km/h ,Extreme,N/A 
+TC_UNK_20140725_114,Green,1,Green,1,7/25/2014,8/11/2014,231.745536,JRC,,TC,TC 46899,GENEVIEVE-14,Ocean / Sea area,No people  ,232 km/h ,Extreme,N/A 
+TC_JPN_20140729_115,Green,1,Green,1,7/29/2014,8/10/2014,259.104384,JRC,JPN,TC,TC 46967,HALONG-14,Japan,90 thousand  ,259 km/h ,Catastrophic,Low 
+TC_USA_20140731_116,Green,1,Green,1,7/31/2014,8/9/2014,222.089472,JRC,USA,TC,TC 47020,ISELLE-14,United States,5 thousand  ,222 km/h ,Extreme,Low 
+TC_MEX_20140726_117,Green,1,Green,1,7/26/2014,7/29/2014,120.7008,JRC,MEX,TC,TC 46927,HERNAN-14,Mexico,No people  ,121 km/h ,Minimal,Medium 
+TC_CHN_20140718_118,Orange,2,Green,1,7/18/2014,7/23/2014,204.386688,JRC,CHN,TC,TC 46757,MATMO-14,China,9.3 million  ,204 km/h ,Extensive,Medium 
+TC_UNK_20140721_119,Green,1,Green,1,7/21/2014,7/23/2014,56.32704,JRC,,TC,TC 46848,TWO-14,Ocean / Sea area,No people  ,56 km/h Tropical depression,Tropical Storm,N/A 
+TC_BHS_20140824_120,Green,1,Green,1,8/24/2014,8/29/2014,148.059648,JRC,BHS,TC,TC 47478,CRISTOBAL-14,Bahamas,No people  ,148 km/h ,Minimal,Low 
+TC_MEX_20140822_121,Green,1,Green,1,8/22/2014,8/29/2014,259.104384,JRC,MEX,TC,TC 47442,MARIE-14,Mexico,No people  ,259 km/h ,Catastrophic,Medium 
+TC_UNK_20140818_122,Green,1,Green,1,8/18/2014,8/27/2014,130.356864,JRC,,TC,TC 47256,KARINA-14,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_JPN_20140929_123,Green,1,Green,1,9/29/2014,10/6/2014,241.4016,JRC,JPN,TC,TC 48205,PHANFONE-14,Japan,39.3 million  ,241 km/h ,Extreme,Low 
+TC_UNK_20140925_124,Green,1,Green,1,9/25/2014,9/30/2014,148.059648,JRC,,TC,TC 48127,RACHEL-14,Ocean / Sea area,No people  ,148 km/h ,Minimal,N/A 
+TC_UNK_20140924_125,Green,1,Green,1,9/24/2014,9/29/2014,148.059648,JRC,,TC,TC 48126,KAMMURI-14,Ocean / Sea area,No people  ,148 km/h ,Minimal,N/A 
+TC_CHN_20140917_126,Green,1,Green,1,9/17/2014,9/23/2014,167.371776,JRC,CHN,TC,TC 47998,FUNG-WONG-14,China,No people  ,167 km/h ,Moderate,Medium 
+TC_CHN_20140917_126,Green,1,Green,1,9/17/2014,9/23/2014,167.371776,JRC,PHL,TC,TC 47998,FUNG-WONG-14,Philippines,No people  ,167 km/h ,Moderate,Medium 
+TC_UNK_20141031_127,Green,1,Green,1,10/31/2014,11/6/2014,315.431424,JTWC,,TC,n.a,NURI-14,Ocean / Sea area,No people  ,315 km/h ,Catastrophic,N/A 
+TC_MEX_20141030_128,Green,1,Green,1,10/30/2014,11/5/2014,185.07456,NOAA,MEX,TC,n.a,VANCE-14,Mexico,No people  ,185 km/h ,Extensive,Medium 
+TC_UNK_20141026_129,Green,1,Green,1,10/26/2014,10/30/2014,231.745536,JTWC,,TC,n.a,NILOFAR-14,Ocean / Sea area,No people  ,232 km/h ,Extreme,N/A 
+TC_HND_20141027_130,Green,1,Green,1,10/27/2014,10/27/2014,83.685888,NOAA,HND,TC,n.a,HANNA-14,Honduras,No people  ,84 km/h ,Tropical Storm,Medium 
+TC_HND_20141027_130,Green,1,Green,1,10/27/2014,10/27/2014,83.685888,NOAA,NIC,TC,n.a,HANNA-14,Nicaragua,No people  ,84 km/h ,Tropical Storm,Medium 
+TC_USA_20141014_131,Green,1,Green,1,10/14/2014,10/26/2014,148.059648,JRC,CAN,TC,TC 1000113,ANA-14,Canada,No people  ,148 km/h ,Minimal,Low 
+TC_USA_20141014_131,Green,1,Green,1,10/14/2014,10/26/2014,148.059648,JRC,USA,TC,TC 1000113,ANA-14,United States,No people  ,148 km/h ,Minimal,Low 
+TC_KHM_20141128_132,Green,1,Green,1,11/28/2014,11/29/2014,120.7008,JTWC,KHM,TC,n.a,SINLAKU-14,Cambodia,No people  ,121 km/h ,Minimal,High 
+TC_KHM_20141128_132,Green,1,Green,1,11/28/2014,11/29/2014,120.7008,JTWC,VNM,TC,n.a,SINLAKU-14,Viet Nam,No people  ,121 km/h ,Minimal,High 
+TC_UNK_20141128_133,Green,1,Green,1,11/28/2014,11/29/2014,83.685888,JTWC,,TC,n.a,TWO-14,Ocean / Sea area,No people  ,84 km/h ,Tropical Storm,N/A 
+TC_UNK_20141225_134,Green,1,Green,1,12/25/2014,12/31/2014,231.745536,JTWC,,TC,n.a,KATE-15,Ocean / Sea area,No people  ,232 km/h ,Extreme,N/A 
+TC_PHL_20141228_135,Green,1,Green,1,12/28/2014,12/28/2014,93.341952,JTWC,PHL,TC,n.a,TWENTYTHRE-15,Philippines,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_UNK_20150131_136,Green,1,Green,1,1/31/2015,2/3/2015,167.371776,JTWC,,TC,n.a,OLA-15,Ocean / Sea area,No people  ,167 km/h ,Moderate,N/A 
+TC_UNK_20150128_137,Green,1,Green,1,1/28/2015,2/2/2015,278.416512,JTWC,,TC,n.a,EUNICE-15,Ocean / Sea area,No people  ,278 km/h ,Catastrophic,N/A 
+TC_UNK_20150127_138,Green,1,Green,1,1/27/2015,1/29/2015,111.044736,JTWC,,TC,n.a,DIAMONDRA-15,Ocean / Sea area,No people  ,111 km/h ,Tropical Storm,N/A 
+TC_PYF_20150121_139,Green,1,Green,1,1/21/2015,1/24/2015,175.418496,JTWC,PYF,TC,n.a,NIKO-15,French Polynesia,No people  ,175 km/h ,Moderate,High 
+TC_UNK_20150224_140,Green,1,Green,1,2/24/2015,2/28/2015,175.418496,JTWC,,TC,n.a,GLENDA-15,Ocean / Sea area,No people  ,175 km/h ,Moderate,N/A 
+TC_PHL_20150327_141,Green,1,Green,1,3/27/2015,4/5/2015,259.2576,JTWC,PHL,TC,n.a,MAYSAK-15,Philippines,No people  ,259 km/h ,Catastrophic,Medium 
+TC_AUS_20150429_142,Green,1,Green,1,4/29/2015,5/1/2015,212.433408,JTWC,AUS,TC,n.a,QUANG-15,Australia,3 thousand  ,212 km/h ,Extreme,Low 
+TC_UNK_20150528_143,Green,1,Green,1,5/28/2015,6/4/2015,231.745536,NOAA,,TC,n.a,ANDRES-15,Ocean / Sea area,No people  ,232 km/h ,Extreme,N/A 
+TC_JPN_20150630_144,Orange,2,Green,1,6/30/2015,7/12/2015,240.7392,JTWC,CHN,TC,n.a,CHAN-HOM-15,China,2 million  ,241 km/h ,Extreme,Medium 
+TC_JPN_20150630_144,Orange,2,Green,1,6/30/2015,7/12/2015,240.7392,JTWC,JPN,TC,n.a,CHAN-HOM-15,Japan,2 million  ,241 km/h ,Extreme,Medium 
+TC_SLB_20150630_145,Green,1,Green,1,6/30/2015,7/4/2015,111.1104,JTWC,SLB,TC,n.a,RAQUEL-15,Solomon Islands,No people  ,111 km/h ,Tropical Storm,High 
+TC_CHN_20150620_146,Green,1,Green,1,6/20/2015,6/24/2015,83.3328,JTWC,CHN,TC,n.a,KUJIRA-15,China,No people  ,83 km/h ,Tropical Storm,Medium 
+TC_CHN_20150730_147,Red,3,Green,1,7/30/2015,8/8/2015,268.5168,JTWC,CHN,TC,n.a,SOUDELOR-15,China,390 thousand  ,269 km/h ,Catastrophic,Medium 
+TC_CHN_20150730_147,Red,3,Green,1,7/30/2015,8/8/2015,268.5168,JTWC,MNP,TC,n.a,SOUDELOR-15,Northern Mariana Islands,390 thousand  ,269 km/h ,Catastrophic,Medium 
+TC_USA_20150730_148,Green,1,Green,1,7/30/2015,8/7/2015,185.184,NOAA,USA,TC,n.a,GUILLERMO-15,United States,No people  ,185 km/h ,Extensive,Low 
+TC_UNK_20150727_149,Green,1,Green,1,7/27/2015,7/30/2015,64.8144,NOAA,,TC,n.a,EIGHT-E-15,Ocean / Sea area,No people  ,65 km/h ,Tropical Storm,N/A 
+TC_IND_20150729_150,Orange,2,Green,1,7/29/2015,7/30/2015,83.3328,JTWC,BGD,TC,n.a,TWO-15,Bangladesh,No people  ,83 km/h ,Tropical Storm,High 
+TC_IND_20150729_150,Orange,2,Green,1,7/29/2015,7/30/2015,83.3328,JTWC,IND,TC,n.a,TWO-15,India,No people  ,83 km/h ,Tropical Storm,High 
+TC_IND_20150729_150,Orange,2,Green,1,7/29/2015,7/30/2015,83.3328,JTWC,MMR,TC,n.a,TWO-15,Myanmar,No people  ,83 km/h ,Tropical Storm,High 
+TC_UMI_20150710_151,Green,1,Green,1,7/10/2015,7/26/2015,222.2208,JTWC,JPN,TC,n.a,HALOLA-15,Japan,No people  ,222 km/h ,Extreme,Low 
+TC_UMI_20150710_151,Green,1,Green,1,7/10/2015,7/26/2015,222.2208,JTWC,UMI,TC,n.a,HALOLA-15,United States Minor Outlying Islands,No people  ,222 km/h ,Extreme,Low 
+TC_UMI_20150710_151,Green,1,Green,1,7/10/2015,7/26/2015,222.2208,JTWC,USA,TC,n.a,HALOLA-15,United States,No people  ,222 km/h ,Extreme,Low 
+TC_UNK_20150820_152,Green,1,Green,1,8/20/2015,9/11/2015,240.7392,JTWC,,TC,n.a,KILO-15,Ocean / Sea area,No people  ,241 km/h ,Extreme,N/A 
+TC_UNK_20150826_153,Green,1,Green,1,8/26/2015,9/10/2015,259.2576,NOAA,,TC,n.a,JIMENA-15,Ocean / Sea area,No people  ,259 km/h ,Catastrophic,N/A 
+TC_UNK_20150830_154,Green,1,Green,1,8/30/2015,9/6/2015,138.888,NOAA,,TC,n.a,FRED-15,Ocean / Sea area,No people  ,139 km/h ,Minimal,N/A 
+TC_UNK_20150831_155,Green,1,Green,1,8/31/2015,9/5/2015,92.592,NOAA,,TC,n.a,KEVIN-15,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_UNK_20150825_156,Green,1,Green,1,8/25/2015,9/5/2015,231.48,NOAA,,TC,n.a,IGNACIO-15,Ocean / Sea area,No people  ,231 km/h ,Extreme,N/A 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,AIA,TC,n.a,ERIKA-15,Anguilla,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,ATG,TC,n.a,ERIKA-15,Antigua And Barbuda,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,CUB,TC,n.a,ERIKA-15,Cuba,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,DOM,TC,n.a,ERIKA-15,Dominican Republic,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,GLP,TC,n.a,ERIKA-15,Guadeloupe,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,HTI,TC,n.a,ERIKA-15,Haiti,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,JAM,TC,n.a,ERIKA-15,Jamaica,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,KNA,TC,n.a,ERIKA-15,Saint Kitts And Nevis,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,MSR,TC,n.a,ERIKA-15,Montserrat,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,PRI,TC,n.a,ERIKA-15,Puerto Rico,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,USA,TC,n.a,ERIKA-15,United States,No people  ,139 km/h ,Minimal,High 
+TC_CUB_20150825_157,Orange,2,Green,1,8/25/2015,8/29/2015,138.888,NOAA,VGB,TC,n.a,ERIKA-15,"Virgin Islands, British",No people  ,139 km/h ,Minimal,High 
+TC_UNK_20150821_158,Green,1,Green,1,8/21/2015,8/26/2015,129.6288,NOAA,,TC,n.a,LOKE-15,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_PHL_20150814_159,Orange,2,Green,1,8/14/2015,8/25/2015,277.776,JTWC,JPN,TC,n.a,GONI-15,Japan,6.4 million  ,278 km/h ,Catastrophic,Medium 
+TC_PHL_20150814_159,Orange,2,Green,1,8/14/2015,8/25/2015,277.776,JTWC,PHL,TC,n.a,GONI-15,Philippines,6.4 million  ,278 km/h ,Catastrophic,Medium 
+TC_UNK_20150814_160,Green,1,Green,1,8/14/2015,8/25/2015,259.2576,JTWC,,TC,n.a,ATSANI-15,Ocean / Sea area,No people  ,259 km/h ,Catastrophic,N/A 
+TC_DMA_20150818_161,Green,1,Green,1,8/18/2015,8/24/2015,175.9248,NOAA,DMA,TC,n.a,DANNY-15,Dominica,No people  ,176 km/h ,Moderate,High 
+TC_DMA_20150818_161,Green,1,Green,1,8/18/2015,8/24/2015,175.9248,NOAA,GLP,TC,n.a,DANNY-15,Guadeloupe,No people  ,176 km/h ,Moderate,High 
+TC_DMA_20150818_161,Green,1,Green,1,8/18/2015,8/24/2015,175.9248,NOAA,MSR,TC,n.a,DANNY-15,Montserrat,No people  ,176 km/h ,Moderate,High 
+TC_DMA_20150818_161,Green,1,Green,1,8/18/2015,8/24/2015,175.9248,NOAA,MTQ,TC,n.a,DANNY-15,Martinique,No people  ,176 km/h ,Moderate,High 
+TC_BHS_20150928_162,Green,1,Green,1,9/28/2015,10/8/2015,249.9984,NOAA,BHS,TC,n.a,JOAQUIN-15,Bahamas,No people  ,250 km/h ,Extreme,Low 
+TC_MEX_20150926_163,Green,1,Green,1,9/26/2015,10/1/2015,129.6288,NOAA,MEX,TC,n.a,MARTY-15,Mexico,No people  ,130 km/h ,Minimal,Medium 
+TC_UNK_20150925_164,Green,1,Green,1,9/25/2015,9/29/2015,101.8512,NOAA,,TC,n.a,NIALA-15,Ocean / Sea area,No people  ,102 km/h ,Tropical Storm,N/A 
+TC_JPN_20150921_165,Red,3,Orange,2,9/21/2015,9/29/2015,240.7392,JTWC,CHN,TC,n.a,DUJUAN-15,China,1 million  ,241 km/h ,Extreme,Medium 
+TC_JPN_20150921_165,Red,3,Orange,2,9/21/2015,9/29/2015,240.7392,JTWC,JPN,TC,n.a,DUJUAN-15,Japan,1 million  ,241 km/h ,Extreme,Medium 
+TC_UNK_20150918_166,Green,1,Green,1,9/18/2015,9/27/2015,120.3696,NOAA,,TC,n.a,IDA-15,Ocean / Sea area,No people  ,120 km/h ,Minimal,N/A 
+TC_UNK_20151028_167,Orange,2,Green,1,10/28/2015,11/3/2015,222.2208,JTWC,,TC,n.a,CHAPALA-15,Ocean / Sea area,340 thousand  ,222 km/h ,Extreme,N/A 
+TC_UNK_20151015_168,Green,1,Green,1,10/15/2015,10/27/2015,249.9984,NOAA,,TC,n.a,OLAF-15,Ocean / Sea area,No people  ,250 km/h ,Extreme,N/A 
+TC_UNK_20151020_169,Red,3,Green,1,10/20/2015,10/24/2015,333.3312,NOAA,,TC,n.a,PATRICIA-15,Ocean / Sea area,410 thousand  ,333 km/h ,Catastrophic,N/A 
+TC_UNK_20151013_170,Green,1,Green,1,10/13/2015,10/24/2015,268.5168,JTWC,,TC,n.a,CHAMPI-15,Ocean / Sea area,No people  ,269 km/h ,Catastrophic,N/A 
+TC_UNK_20151127_171,Green,1,Green,1,11/27/2015,11/29/2015,101.8512,JTWC,,TC,n.a,TUNI-15,Ocean / Sea area,No people  ,102 km/h ,Tropical Storm,N/A 
+TC_MEX_20151123_172,Green,1,Green,1,11/23/2015,11/28/2015,231.48,NOAA,MEX,TC,n.a,SANDRA-15,Mexico,No people  ,231 km/h ,Extreme,Medium 
+TC_UNK_20151117_173,Green,1,Green,1,11/17/2015,11/26/2015,240.7392,JTWC,,TC,n.a,IN-FA-15,Ocean / Sea area,No people  ,241 km/h ,Extreme,N/A 
+TC_UNK_20151230_174,Orange,2,Green,1,12/30/2015,1/12/2016,231.48,JTWC,,TC,n.a,ULA-16,Ocean / Sea area,20 thousand  ,231 km/h ,Extreme,N/A 
+TC_UNK_20151231_175,Green,1,Green,1,12/31/2015,1/1/2016,74.0736,NOAA,,TC,n.a,NINE-C-16,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_UNK_20160129_176,Green,1,Green,1,1/29/2016,1/30/2016,129.6288,JTWC,,TC,n.a,STAN-16,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_UNK_20160121_177,Green,1,Green,1,1/21/2016,1/25/2016,175.9248,JTWC,,TC,n.a,CORENTIN-16,Ocean / Sea area,No people  ,176 km/h ,Moderate,N/A 
+TC_UNK_20160225_178,Green,1,Green,1,2/25/2016,2/26/2016,101.8512,JTWC,,TC,n.a,YALO-16,Ocean / Sea area,No people  ,102 km/h ,Tropical Storm,N/A 
+TC_FJI_20160210_179,Red,3,Green,1,2/10/2016,2/24/2016,296.2944,JTWC,FJI,TC,n.a,WINSTON-16,Fiji,230 thousand  ,296 km/h ,Catastrophic,Medium 
+TC_UNK_20160328_180,Green,1,Green,1,3/28/2016,3/30/2016,83.3328,JTWC,,TC,n.a,SEVENTEEN-16,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_UNK_20160315_181,Green,1,Green,1,3/15/2016,3/22/2016,249.9984,JTWC,,TC,n.a,EMERAUDE-16,Ocean / Sea area,No people  ,250 km/h ,Extreme,N/A 
+TC_UNK_20160420_182,Orange,2,Green,1,4/20/2016,4/24/2016,212.9616,JTWC,,TC,n.a,AMOS-16,Ocean / Sea area,20 thousand  ,213 km/h ,Extreme,N/A 
+TC_UNK_20160411_183,Green,1,Green,1,4/11/2016,4/24/2016,277.776,JTWC,,TC,n.a,FANTALA-16,Ocean / Sea area,No people  ,278 km/h ,Catastrophic,N/A 
+TC_UNK_20160527_184,Green,1,Green,1,5/27/2016,6/5/2016,74.0736,NOAA,,TC,n.a,BONNIE-16,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_UNK_20160627_185,Green,1,Green,1,6/27/2016,6/28/2016,92.592,JTWC,,TC,n.a,TWO-16,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_UNK_20160731_186,Green,1,Green,1,7/31/2016,8/3/2016,101.8512,NOAA,,TC,n.a,HOWARD-16,Ocean / Sea area,No people  ,102 km/h ,Tropical Storm,N/A 
+TC_UNK_20160729_187,Orange,2,Orange,2,7/29/2016,8/2/2016,157.4064,JTWC,,TC,n.a,NIDA-16,Ocean / Sea area,1.7 million  ,157 km/h ,Moderate,N/A 
+TC_UNK_20160721_188,Green,1,Green,1,7/21/2016,7/28/2016,138.888,NOAA,,TC,n.a,FRANK-16,Ocean / Sea area,No people  ,139 km/h ,Minimal,N/A 
+TC_UNK_20160721_189,Green,1,Green,1,7/21/2016,7/27/2016,212.9616,NOAA,,TC,n.a,GEORGETTE-16,Ocean / Sea area,No people  ,213 km/h ,Extreme,N/A 
+TC_UNK_20160725_190,Orange,2,Orange,2,7/25/2016,7/27/2016,83.3328,JTWC,,TC,n.a,MIRINAE-16,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_UNK_20160711_191,Green,1,Green,1,7/11/2016,7/26/2016,185.184,NOAA,,TC,n.a,DARBY-16,Ocean / Sea area,No people  ,185 km/h ,Extensive,N/A 
+TC_USA_20160824_192,Green,1,Green,1,8/24/2016,9/7/2016,222.2208,NOAA,USA,TC,n.a,LESTER-16,United States,No people  ,222 km/h ,Extreme,Low 
+TC_USA_20160828_193,Green,1,Green,1,8/28/2016,9/6/2016,129.6288,NOAA,USA,TC,n.a,HERMINE-16,United States,No people  ,130 km/h ,Minimal,Low 
+TC_JPN_20160831_194,Green,1,Green,1,8/31/2016,9/5/2016,203.7024,JTWC,JPN,TC,n.a,NAMTHEUN-16,Japan,No people  ,204 km/h ,Extensive,Low 
+TC_PRT_20160822_195,Green,1,Green,1,8/22/2016,9/3/2016,194.4432,NOAA,PRT,TC,n.a,GASTON-16,Portugal,No people  ,194 km/h ,Extensive,Low 
+TC_USA_20160826_196,Green,1,Green,1,8/26/2016,9/3/2016,212.9616,NOAA,USA,TC,n.a,MADELINE-16,United States,No people  ,213 km/h ,Extreme,Low 
+TC_UNK_20160828_197,Green,1,Green,1,8/28/2016,9/1/2016,83.3328,NOAA,,TC,n.a,EIGHT-16,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_UNK_20160818_198,Green,1,Green,1,8/18/2016,8/30/2016,222.2208,JTWC,,TC,n.a,LIONROCK-16,Ocean / Sea area,No people  ,222 km/h ,Extreme,N/A 
+TC_USA_20160928_199,Red,3,Green,1,9/28/2016,10/9/2016,231.48,NOAA,BHS,TC,n.a,MATTHEW-16,Bahamas,540 thousand  ,231 km/h ,Extreme,High 
+TC_USA_20160928_199,Red,3,Green,1,9/28/2016,10/9/2016,231.48,NOAA,CUB,TC,n.a,MATTHEW-16,Cuba,540 thousand  ,231 km/h ,Extreme,High 
+TC_USA_20160928_199,Red,3,Green,1,9/28/2016,10/9/2016,231.48,NOAA,HTI,TC,n.a,MATTHEW-16,Haiti,540 thousand  ,231 km/h ,Extreme,High 
+TC_USA_20160928_199,Red,3,Green,1,9/28/2016,10/9/2016,231.48,NOAA,USA,TC,n.a,MATTHEW-16,United States,540 thousand  ,231 km/h ,Extreme,High 
+TC_KOR_20160928_200,Orange,2,Green,1,9/28/2016,10/5/2016,249.9984,JTWC,JPN,TC,n.a,CHABA-16,Japan,110 thousand  ,250 km/h ,Extreme,Low 
+TC_KOR_20160928_200,Orange,2,Green,1,9/28/2016,10/5/2016,249.9984,JTWC,KOR,TC,n.a,CHABA-16,"Korea, Republic Of",110 thousand  ,250 km/h ,Extreme,Low 
+TC_UNK_20160926_201,Green,1,Green,1,9/26/2016,9/30/2016,129.6288,NOAA,,TC,n.a,ULIKA-16,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_UNK_20160925_202,Green,1,Green,1,9/25/2016,9/29/2016,83.3328,NOAA,,TC,n.a,ROSLYN-16,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_CHN_20160923_203,Red,3,Orange,2,9/23/2016,9/27/2016,212.9616,JTWC,CHN,TC,n.a,MEGI-16,China,2.6 million  ,213 km/h ,Extreme,Medium 
+TC_BMU_20160914_204,Green,1,Green,1,9/14/2016,9/25/2016,175.9248,NOAA,BMU,TC,n.a,KARL-16,Bermuda,No people  ,176 km/h ,Moderate,Low 
+TC_UNK_20160919_205,Green,1,Green,1,9/19/2016,9/25/2016,92.592,NOAA,,TC,n.a,LISA-16,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_UNK_20161023_206,Green,1,Green,1,10/23/2016,10/28/2016,240.7392,JTWC,,TC,n.a,SEYMOUR-16,Ocean / Sea area,No people  ,241 km/h ,Extreme,N/A 
+TC_UNK_20161025_207,Green,1,Green,1,10/25/2016,10/26/2016,111.1104,JTWC,,TC,n.a,KYANT-16,Ocean / Sea area,No people  ,111 km/h ,Tropical Storm,N/A 
+TC_LKA_20161129_208,Orange,2,Orange,2,11/29/2016,12/1/2016,92.592,JTWC,IND,TC,n.a,NADA-16,India,No people  ,93 km/h ,Tropical Storm,High 
+TC_LKA_20161129_208,Orange,2,Orange,2,11/29/2016,12/1/2016,92.592,JTWC,LKA,TC,n.a,NADA-16,Sri Lanka,No people  ,93 km/h ,Tropical Storm,High 
+TC_PHL_20161124_209,Green,1,Green,1,11/24/2016,11/28/2016,111.1104,JTWC,PHL,TC,n.a,TOKAGE-16,Philippines,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_NIC_20161121_210,Orange,2,Green,1,11/21/2016,11/26/2016,175.9248,NOAA,CRI,TC,n.a,OTTO-16,Costa Rica,60 thousand  ,176 km/h ,Moderate,Medium 
+TC_NIC_20161121_210,Orange,2,Green,1,11/21/2016,11/26/2016,175.9248,NOAA,NIC,TC,n.a,OTTO-16,Nicaragua,60 thousand  ,176 km/h ,Moderate,Medium 
+TC_PHL_20161221_211,Red,3,Green,1,12/21/2016,12/28/2016,249.9984,JTWC,PHL,TC,n.a,NOCK-TEN-16,Philippines,400 thousand  ,250 km/h ,Extreme,Medium 
+TC_AUS_20170127_212,Green,1,Green,1,1/27/2017,1/29/2017,101.8512,JTWC,AUS,TC,n.a,THREE-17,Australia,No people  ,102 km/h ,Tropical Storm,Low 
+TC_NIU_20170222_213,Green,1,Green,1,2/22/2017,2/22/2017,74.0736,JTWC,NIU,TC,n.a,EIGHT-17,Niue,No people  ,74 km/h ,Tropical Storm,High 
+TC_NIU_20170222_213,Green,1,Green,1,2/22/2017,2/22/2017,74.0736,JTWC,TON,TC,n.a,EIGHT-17,Tonga,No people  ,74 km/h ,Tropical Storm,High 
+TC_AUS_20170324_214,Green,1,Green,1,3/24/2017,3/28/2017,212.9616,JTWC,AUS,TC,n.a,DEBBIE-17,Australia,No people  ,213 km/h ,Extreme,Low 
+TC_UNK_20170323_215,Green,1,Green,1,3/23/2017,3/27/2017,92.592,JTWC,,TC,n.a,CALEB-17,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_UNK_20170427_216,Green,1,Green,1,4/27/2017,4/30/2017,138.888,JTWC,,TC,n.a,FRANCES-17,Ocean / Sea area,No people  ,139 km/h ,Minimal,N/A 
+TC_UNK_20170424_217,Green,1,Green,1,4/24/2017,4/27/2017,92.592,JTWC,,TC,n.a,MUIFA-17,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_MEX_20170531_218,Green,1,Green,1,5/31/2017,6/2/2017,92.592,JTWC,MEX,TC,n.a,BEATRIZ-17,Mexico,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_BGD_20170527_219,Red,3,Orange,2,5/27/2017,5/30/2017,120.3696,JTWC,BGD,TC,n.a,MORA-17,Bangladesh,11.3 million  ,120 km/h ,Minimal,High 
+TC_BGD_20170527_219,Red,3,Orange,2,5/27/2017,5/30/2017,120.3696,JTWC,IND,TC,n.a,MORA-17,India,11.3 million  ,120 km/h ,Minimal,High 
+TC_MEX_20170625_220,Green,1,Green,1,6/25/2017,6/28/2017,148.1472,JTWC,MEX,TC,n.a,DORA-17,Mexico,No people  ,148 km/h ,Minimal,Medium 
+TC_USA_20170620_221,Green,1,Green,1,6/20/2017,6/22/2017,92.592,NOAA,USA,TC,n.a,CINDY-17,United States,No people  ,93 km/h ,Tropical Storm,Low 
+TC_JPN_20170720_222,Green,1,Green,1,7/20/2017,8/8/2017,268.5168,JTWC,JPN,TC,n.a,NORU-17,Japan,No people  ,269 km/h ,Catastrophic,Low 
+TC_USA_20170731_223,Green,1,Green,1,7/31/2017,8/1/2017,74.0736,NOAA,USA,TC,n.a,EMILY-17,United States,No people  ,74 km/h ,Tropical Storm,Low 
+TC_UNK_20170722_224,Green,1,Green,1,7/22/2017,8/1/2017,148.1472,JTWC,,TC,n.a,IRWIN-17,Ocean / Sea area,No people  ,148 km/h ,Minimal,N/A 
+TC_CHN_20170728_225,Green,1,Green,1,7/28/2017,7/31/2017,83.3328,JTWC,CHN,TC,n.a,HAITANG-17,China,No people  ,83 km/h ,Tropical Storm,Medium 
+TC_CHN_20170728_225,Green,1,Green,1,7/28/2017,7/31/2017,83.3328,JTWC,PHL,TC,n.a,HAITANG-17,Philippines,No people  ,83 km/h ,Tropical Storm,Medium 
+TC_UNK_20170721_226,Green,1,Green,1,7/21/2017,7/31/2017,212.9616,JTWC,,TC,n.a,HILARY-17,Ocean / Sea area,No people  ,213 km/h ,Extreme,N/A 
+TC_CHN_20170726_227,Orange,2,Green,1,7/26/2017,7/30/2017,166.6656,JTWC,CHN,TC,n.a,NESAT-17,China,450 thousand  ,167 km/h ,Moderate,Medium 
+TC_UNK_20170717_228,Green,1,Green,1,7/17/2017,7/26/2017,129.6288,JTWC,,TC,n.a,GREG-17,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_UNK_20170721_229,Green,1,Green,1,7/21/2017,7/26/2017,92.592,JTWC,,TC,n.a,KULAP-17,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_VNM_20170721_230,Green,1,Green,1,7/21/2017,7/25/2017,101.8512,JTWC,THA,TC,n.a,SONCA-17,Thailand,No people  ,102 km/h ,Tropical Storm,High 
+TC_VNM_20170721_230,Green,1,Green,1,7/21/2017,7/25/2017,101.8512,JTWC,VNM,TC,n.a,SONCA-17,Viet Nam,No people  ,102 km/h ,Tropical Storm,High 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,AIA,TC,n.a,IRMA-17,Anguilla,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,ATG,TC,n.a,IRMA-17,Antigua And Barbuda,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,BHS,TC,n.a,IRMA-17,Bahamas,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,CUB,TC,n.a,IRMA-17,Cuba,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,DOM,TC,n.a,IRMA-17,Dominican Republic,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,GLP,TC,n.a,IRMA-17,Guadeloupe,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,KNA,TC,n.a,IRMA-17,Saint Kitts And Nevis,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,MSR,TC,n.a,IRMA-17,Montserrat,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,PRI,TC,n.a,IRMA-17,Puerto Rico,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,TCA,TC,n.a,IRMA-17,Turks And Caicos Islands,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_AIA_20170830_231,Red,3,Green,1,8/30/2017,9/12/2017,296.2944,NOAA,USA,TC,n.a,IRMA-17,United States,16.4 million  ,296 km/h ,Catastrophic,Medium 
+TC_CHN_20170831_232,Green,1,Green,1,8/31/2017,9/3/2017,120.3696,JTWC,CHN,TC,n.a,MAWAR-17,China,No people  ,120 km/h ,Minimal,Medium 
+TC_MEX_20170829_233,Green,1,Green,1,8/29/2017,9/3/2017,111.1104,JTWC,MEX,TC,n.a,LIDIA-17,Mexico,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_UNK_20170828_234,Green,1,Green,1,8/28/2017,9/2/2017,212.9616,JTWC,,TC,n.a,SANVU-17,Ocean / Sea area,No people  ,213 km/h ,Extreme,N/A 
+TC_USA_20170817_235,Orange,2,Green,1,8/17/2017,8/31/2017,212.9616,NOAA,USA,TC,n.a,HARVEY-17,United States,500 thousand  ,213 km/h ,Extreme,Low 
+TC_CHN_20170824_236,Green,1,Green,1,8/24/2017,8/27/2017,138.888,JTWC,CHN,TC,n.a,PAKHAR-17,China,No people  ,139 km/h ,Minimal,Medium 
+TC_CHN_20170824_236,Green,1,Green,1,8/24/2017,8/27/2017,138.888,JTWC,PHL,TC,n.a,PAKHAR-17,Philippines,No people  ,139 km/h ,Minimal,Medium 
+TC_UNK_20170818_237,Green,1,Green,1,8/18/2017,8/23/2017,212.9616,NOAA,,TC,n.a,KENNETH-17,Ocean / Sea area,No people  ,213 km/h ,Extreme,N/A 
+TC_CHN_20170820_238,Orange,2,Orange,2,8/20/2017,8/23/2017,157.4064,JTWC,CHN,TC,n.a,HATO-17,China,7.5 million  ,157 km/h ,Moderate,Medium 
+TC_UNK_20170916_239,Red,3,Green,1,9/16/2017,9/30/2017,277.776,NOAA,KNA,TC,n.a,MARIA-17,Virgin IslandsU.S.GuadeloupePuerto RicoDominicaTurks and Caicos IslandsDominican RepublicMartiniqueAntigua and BarbudaMontserratSaint Kitts and NevisAnguillaBritish,2.7 million  ,278 km/h ,Catastrophic,N/A 
+TC_UNK_20170915_240,Green,1,Green,1,9/15/2017,9/30/2017,185.184,NOAA,,TC,n.a,LEE-17,Ocean / Sea area,No people  ,185 km/h ,Extensive,N/A 
+TC_MEX_20170923_241,Green,1,Green,1,9/23/2017,9/25/2017,92.592,JTWC,MEX,TC,n.a,PILAR-17,Mexico,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_UNK_20170923_242,Green,1,Green,1,9/23/2017,9/25/2017,64.8144,JTWC,,TC,n.a,TWENTYTWO-17,Ocean / Sea area,No people  ,65 km/h ,Tropical Storm,N/A 
+TC_BHS_20171028_243,Green,1,Green,1,10/28/2017,10/29/2017,101.8512,NOAA,BHS,TC,n.a,PHILIPPE-17,Bahamas,No people  ,102 km/h ,Tropical Storm,Low 
+TC_BHS_20171028_243,Green,1,Green,1,10/28/2017,10/29/2017,101.8512,NOAA,CUB,TC,n.a,PHILIPPE-17,Cuba,No people  ,102 km/h ,Tropical Storm,Low 
+TC_BHS_20171028_243,Green,1,Green,1,10/28/2017,10/29/2017,101.8512,NOAA,USA,TC,n.a,PHILIPPE-17,United States,No people  ,102 km/h ,Tropical Storm,Low 
+TC_JPN_20171019_244,Green,1,Green,1,10/19/2017,10/29/2017,175.9248,JTWC,JPN,TC,n.a,SAOLA-17,Japan,No people  ,176 km/h ,Moderate,Low 
+TC_SLV_20171027_245,Green,1,Green,1,10/27/2017,10/28/2017,83.3328,JTWC,HND,TC,n.a,SELMA-17,Honduras,No people  ,83 km/h ,Tropical Storm,High 
+TC_SLV_20171027_245,Green,1,Green,1,10/27/2017,10/28/2017,83.3328,JTWC,SLV,TC,n.a,SELMA-17,El Salvador,No people  ,83 km/h ,Tropical Storm,High 
+TC_IND_20171129_246,Orange,2,Orange,2,11/29/2017,12/5/2017,175.9248,JTWC,IND,TC,n.a,OCKHI-17,India,No people  ,176 km/h ,Moderate,High 
+TC_IND_20171129_246,Orange,2,Orange,2,11/29/2017,12/5/2017,175.9248,JTWC,LKA,TC,n.a,OCKHI-17,Sri Lanka,No people  ,176 km/h ,Moderate,High 
+TC_IND_20171129_246,Orange,2,Orange,2,11/29/2017,12/5/2017,175.9248,JTWC,MDV,TC,n.a,OCKHI-17,Maldives,No people  ,176 km/h ,Moderate,High 
+TC_IDN_20171130_247,Green,1,Green,1,11/30/2017,12/3/2017,129.6288,JTWC,CXR,TC,n.a,DAHLIA-17,Christmas Island,No people  ,130 km/h ,Minimal,
+TC_IDN_20171130_247,Green,1,Green,1,11/30/2017,12/3/2017,129.6288,JTWC,IDN,TC,n.a,DAHLIA-17,Indonesia,No people  ,130 km/h ,Minimal,
+TC_AUS_20171227_248,Green,1,Green,1,12/27/2017,12/28/2017,74.0736,JTWC,AUS,TC,n.a,HILDA-17,Australia,No people  ,74 km/h ,Tropical Storm,Low 
+TC_VNM_20171220_249,Orange,2,Green,1,12/20/2017,12/26/2017,148.1472,JTWC,BRN,TC,n.a,TEMBIN-17,Brunei Darussalam,No people  ,148 km/h ,Minimal,High 
+TC_VNM_20171220_249,Orange,2,Green,1,12/20/2017,12/26/2017,148.1472,JTWC,KHM,TC,n.a,TEMBIN-17,Cambodia,No people  ,148 km/h ,Minimal,High 
+TC_VNM_20171220_249,Orange,2,Green,1,12/20/2017,12/26/2017,148.1472,JTWC,MYS,TC,n.a,TEMBIN-17,Malaysia,No people  ,148 km/h ,Minimal,High 
+TC_VNM_20171220_249,Orange,2,Green,1,12/20/2017,12/26/2017,148.1472,JTWC,PHL,TC,n.a,TEMBIN-17,Philippines,No people  ,148 km/h ,Minimal,High 
+TC_VNM_20171220_249,Orange,2,Green,1,12/20/2017,12/26/2017,148.1472,JTWC,VNM,TC,n.a,TEMBIN-17,Viet Nam,No people  ,148 km/h ,Minimal,High 
+TC_UNK_20180127_250,Green,1,Green,1,1/27/2018,2/8/2018,240.7392,JTWC,,TC,n.a,CEBILE-18,Ocean / Sea area,No people  ,241 km/h ,Extreme,N/A 
+TC_NFK_20180128_251,Green,1,Green,1,1/28/2018,1/30/2018,92.592,JTWC,NCL,TC,n.a,FEHI-18,New Caledonia,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_NFK_20180128_251,Green,1,Green,1,1/28/2018,1/30/2018,92.592,JTWC,NFK,TC,n.a,FEHI-18,Norfolk Island,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_AUS_20180324_252,Green,1,Green,1,3/24/2018,4/6/2018,120.3696,JTWC,AUS,TC,n.a,IRIS-18,Australia,No people  ,120 km/h ,Minimal,Low 
+TC_FJI_20180331_253,Green,1,Green,1,3/31/2018,4/3/2018,129.6288,JTWC,FJI,TC,n.a,JOSIE-18,Fiji,No people  ,130 km/h ,Minimal,Medium 
+TC_UNK_20180324_254,Green,1,Green,1,3/24/2018,4/1/2018,240.7392,JTWC,,TC,n.a,JELAWAT-18,Ocean / Sea area,No people  ,241 km/h ,Extreme,N/A 
+TC_AUS_20180322_255,Green,1,Green,1,3/22/2018,3/25/2018,240.7392,JTWC,AUS,TC,n.a,NORA-18,Australia,No people  ,241 km/h ,Extreme,Low 
+TC_AUS_20180315_256,Green,1,Green,1,3/15/2018,3/24/2018,259.2576,JTWC,AUS,TC,n.a,MARCUS-18,Australia,No people  ,259 km/h ,Catastrophic,Low 
+TC_UNK_20180428_257,Green,1,Green,1,4/28/2018,5/2/2018,129.6288,JTWC,,TC,n.a,FLAMBOYAN-18,Ocean / Sea area,No people  ,130 km/h ,Minimal,N/A 
+TC_MUS_20180423_258,Green,1,Green,1,4/23/2018,4/25/2018,120.3696,JTWC,MUS,TC,n.a,FAKIR-18,Mauritius,No people  ,120 km/h ,Minimal,Medium 
+TC_USA_20180525_259,Green,1,Green,1,5/25/2018,5/29/2018,101.8512,NOAA,BLZ,TC,n.a,ALBERTO-18,Belize,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_USA_20180525_259,Green,1,Green,1,5/25/2018,5/29/2018,101.8512,NOAA,CUB,TC,n.a,ALBERTO-18,Cuba,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_USA_20180525_259,Green,1,Green,1,5/25/2018,5/29/2018,101.8512,NOAA,MEX,TC,n.a,ALBERTO-18,Mexico,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_USA_20180525_259,Green,1,Green,1,5/25/2018,5/29/2018,101.8512,NOAA,USA,TC,n.a,ALBERTO-18,United States,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_OMN_20180522_260,Orange,2,Orange,2,5/22/2018,5/26/2018,185.184,JTWC,OMN,TC,n.a,MEKUNU-18,Oman,240 thousand  ,185 km/h ,Extensive,Medium 
+TC_UNK_20180630_261,Green,1,Green,1,6/30/2018,7/6/2018,212.9616,JTWC,,TC,n.a,FABIO-18,Ocean / Sea area,No people  ,213 km/h ,Extreme,N/A 
+TC_JPN_20180628_262,Green,1,Green,1,6/28/2018,7/4/2018,148.1472,JTWC,JPN,TC,n.a,PRAPIROON-18,Japan,510 thousand  ,148 km/h ,Minimal,Low 
+TC_UNK_20180627_263,Green,1,Green,1,6/27/2018,7/2/2018,101.8512,JTWC,,TC,n.a,EMILIA-18,Ocean / Sea area,No people  ,102 km/h ,Tropical Storm,N/A 
+TC_UNK_20180624_264,Green,1,Green,1,6/24/2018,6/26/2018,74.0736,JTWC,,TC,n.a,DANIEL-18,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_UNK_20180731_265,Green,1,Green,1,7/31/2018,8/15/2018,249.9984,JTWC,,TC,n.a,HECTOR-18,Ocean / Sea area,No people  ,250 km/h ,Extreme,N/A 
+TC_JPN_20180722_266,Green,1,Green,1,7/22/2018,8/2/2018,212.9616,JTWC,JPN,TC,n.a,JONGDARI-18,Japan,17.7 million  ,213 km/h ,Extreme,Low 
+TC_UNK_20180730_267,Green,1,Green,1,7/30/2018,7/31/2018,83.3328,JTWC,,TC,n.a,SIXTEEN-18,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_UNK_20180726_268,Green,1,Green,1,7/26/2018,7/29/2018,83.3328,JTWC,,TC,n.a,GILMA-18,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_UNK_20180726_269,Green,1,Green,1,7/26/2018,7/27/2018,55.5552,JTWC,,TC,n.a,NINE-18,Ocean / Sea area,No people  ,56 km/h Tropical depression,Tropical Storm,N/A 
+TC_UNK_20180721_270,Green,1,Green,1,7/21/2018,7/26/2018,120.3696,JTWC,,TC,n.a,WUKONG-18,Ocean / Sea area,No people  ,120 km/h ,Minimal,N/A 
+TC_USA_20180831_271,Green,1,Green,1,8/31/2018,9/16/2018,240.7392,NOAA,USA,TC,n.a,FLORENCE-18,United States,1.5 million  ,241 km/h ,Extreme,Low 
+TC_UNK_20180828_272,Green,1,Green,1,8/28/2018,9/8/2018,259.2576,JTWC,,TC,n.a,NORMAN-18,Ocean / Sea area,No people  ,259 km/h ,Catastrophic,N/A 
+TC_JPN_20180827_273,Green,1,Green,1,8/27/2018,9/4/2018,287.0352,JTWC,JPN,TC,n.a,JEBI-18,Japan,29.8 million  ,287 km/h ,Catastrophic,Low 
+TC_UNK_20180826_274,Green,1,Green,1,8/26/2018,9/2/2018,166.6656,JTWC,,TC,n.a,MIRIAM-18,Ocean / Sea area,No people  ,167 km/h ,Moderate,N/A 
+TC_USA_20180815_275,Green,1,Green,1,8/15/2018,8/29/2018,259.2576,JTWC,USA,TC,n.a,LANE-18,United States,No people  ,259 km/h ,Catastrophic,Low 
+TC_PRT_20180923_276,Green,1,Green,1,9/23/2018,10/13/2018,148.1472,NOAA,PRT,TC,n.a,LESLIE-18,Portugal,400 thousand  ,148 km/h ,Minimal,Low 
+TC_MEX_20180929_277,Green,1,Green,1,9/29/2018,10/12/2018,222.2208,JTWC,MEX,TC,n.a,SERGIO-18,Mexico,No people  ,222 km/h ,Extreme,Medium 
+TC_PRK_20180928_278,Orange,2,Green,1,9/28/2018,10/6/2018,259.2576,JTWC,CHN,TC,n.a,KONG-REY-18,China,No people  ,259 km/h ,Catastrophic,High 
+TC_PRK_20180928_278,Orange,2,Green,1,9/28/2018,10/6/2018,259.2576,JTWC,GUM,TC,n.a,KONG-REY-18,Guam,No people  ,259 km/h ,Catastrophic,High 
+TC_PRK_20180928_278,Orange,2,Green,1,9/28/2018,10/6/2018,259.2576,JTWC,JPN,TC,n.a,KONG-REY-18,Japan,No people  ,259 km/h ,Catastrophic,High 
+TC_PRK_20180928_278,Orange,2,Green,1,9/28/2018,10/6/2018,259.2576,JTWC,KOR,TC,n.a,KONG-REY-18,"Korea, Republic Of",No people  ,259 km/h ,Catastrophic,High 
+TC_PRK_20180928_278,Orange,2,Green,1,9/28/2018,10/6/2018,259.2576,JTWC,PRK,TC,n.a,KONG-REY-18,"Korea, Democratic People'S Republic Of",No people  ,259 km/h ,Catastrophic,High 
+TC_PRK_20180928_278,Orange,2,Green,1,9/28/2018,10/6/2018,259.2576,JTWC,RUS,TC,n.a,KONG-REY-18,Russian Federation,No people  ,259 km/h ,Catastrophic,High 
+TC_UMI_20180929_279,Green,1,Green,1,9/29/2018,10/6/2018,268.5168,NOAA,UMI,TC,n.a,WALAKA-18,United States Minor Outlying Islands,No people  ,269 km/h ,Catastrophic,N/A 
+TC_UMI_20180929_279,Green,1,Green,1,9/29/2018,10/6/2018,268.5168,NOAA,USA,TC,n.a,WALAKA-18,United States,No people  ,269 km/h ,Catastrophic,N/A 
+TC_MEX_20180925_280,Green,1,Green,1,9/25/2018,10/2/2018,240.7392,JTWC,MEX,TC,n.a,ROSA-18,Mexico,No people  ,241 km/h ,Extreme,Medium 
+TC_JPN_20180920_281,Green,1,Green,1,9/20/2018,9/30/2018,268.5168,JTWC,JPN,TC,n.a,TRAMI-18,Japan,92.3 million  ,269 km/h ,Catastrophic,Low 
+TC_VCT_20180922_282,Green,1,Green,1,9/22/2018,9/29/2018,92.592,NOAA,BRB,TC,n.a,KIRK-18,Barbados,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_VCT_20180922_282,Green,1,Green,1,9/22/2018,9/29/2018,92.592,NOAA,DMA,TC,n.a,KIRK-18,Dominica,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_VCT_20180922_282,Green,1,Green,1,9/22/2018,9/29/2018,92.592,NOAA,GLP,TC,n.a,KIRK-18,Guadeloupe,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_VCT_20180922_282,Green,1,Green,1,9/22/2018,9/29/2018,92.592,NOAA,GRD,TC,n.a,KIRK-18,Grenada,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_VCT_20180922_282,Green,1,Green,1,9/22/2018,9/29/2018,92.592,NOAA,LCA,TC,n.a,KIRK-18,Saint Lucia,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_VCT_20180922_282,Green,1,Green,1,9/22/2018,9/29/2018,92.592,NOAA,MTQ,TC,n.a,KIRK-18,Martinique,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_VCT_20180922_282,Green,1,Green,1,9/22/2018,9/29/2018,92.592,NOAA,VCT,TC,n.a,KIRK-18,Saint Vincent And The Grenadines,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_SLB_20180926_283,Green,1,Green,1,9/26/2018,9/28/2018,74.0736,JTWC,SLB,TC,n.a,LIUA-18,Solomon Islands,No people  ,74 km/h ,Tropical Storm,High 
+TC_MNP_20181021_284,Red,3,Green,1,10/21/2018,11/2/2018,287.0352,JTWC,MNP,TC,n.a,YUTU-18,Northern Mariana Islands,11 million  ,287 km/h ,Catastrophic,Medium 
+TC_MNP_20181021_284,Red,3,Green,1,10/21/2018,11/2/2018,287.0352,JTWC,PHL,TC,n.a,YUTU-18,Philippines,11 million  ,287 km/h ,Catastrophic,Medium 
+TC_ISL_20181027_285,Green,1,Green,1,10/27/2018,10/31/2018,166.6656,NOAA,FRO,TC,n.a,OSCAR-18,Faroe Islands,No people  ,167 km/h ,Moderate,
+TC_ISL_20181027_285,Green,1,Green,1,10/27/2018,10/31/2018,166.6656,NOAA,GBR,TC,n.a,OSCAR-18,United Kingdom,No people  ,167 km/h ,Moderate,
+TC_ISL_20181027_285,Green,1,Green,1,10/27/2018,10/31/2018,166.6656,NOAA,IRL,TC,n.a,OSCAR-18,Ireland,No people  ,167 km/h ,Moderate,
+TC_ISL_20181027_285,Green,1,Green,1,10/27/2018,10/31/2018,166.6656,NOAA,ISL,TC,n.a,OSCAR-18,Iceland,No people  ,167 km/h ,Moderate,
+TC_ISL_20181027_285,Green,1,Green,1,10/27/2018,10/31/2018,166.6656,NOAA,NOR,TC,n.a,OSCAR-18,Norway,No people  ,167 km/h ,Moderate,
+TC_ISL_20181027_285,Green,1,Green,1,10/27/2018,10/31/2018,166.6656,NOAA,SJM,TC,n.a,OSCAR-18,Svalbard And Jan Mayen,No people  ,167 km/h ,Moderate,
+TC_ISL_20181027_285,Green,1,Green,1,10/27/2018,10/31/2018,166.6656,NOAA,SWE,TC,n.a,OSCAR-18,Sweden,No people  ,167 km/h ,Moderate,
+TC_UNK_20181119_286,Green,1,Green,1,11/19/2018,11/27/2018,194.4432,JTWC,,TC,n.a,MAN-YI-18,Ocean / Sea area,No people  ,194 km/h ,Extensive,N/A 
+TC_PNG_20181231_287,Green,1,Green,1,12/31/2018,1/8/2019,120.3696,JTWC,AUS,TC,n.a,PENNY-18,Australia,No people  ,120 km/h ,Minimal,High 
+TC_PNG_20181231_287,Green,1,Green,1,12/31/2018,1/8/2019,120.3696,JTWC,GIN,TC,n.a,PENNY-18,Guinea,No people  ,120 km/h ,Minimal,High 
+TC_PNG_20181231_287,Green,1,Green,1,12/31/2018,1/8/2019,120.3696,JTWC,PNG,TC,n.a,PENNY-18,Papua New Guinea,No people  ,120 km/h ,Minimal,High 
+TC_MMR_20181231_288,Green,1,Green,1,12/31/2018,1/5/2019,101.8512,JTWC,IDN,TC,n.a,PABUK-18,Indonesia,No people  ,102 km/h ,Tropical Storm,High 
+TC_MMR_20181231_288,Green,1,Green,1,12/31/2018,1/5/2019,101.8512,JTWC,MMR,TC,n.a,PABUK-18,Myanmar,No people  ,102 km/h ,Tropical Storm,High 
+TC_MMR_20181231_288,Green,1,Green,1,12/31/2018,1/5/2019,101.8512,JTWC,MYS,TC,n.a,PABUK-18,Malaysia,No people  ,102 km/h ,Tropical Storm,High 
+TC_MMR_20181231_288,Green,1,Green,1,12/31/2018,1/5/2019,101.8512,JTWC,THA,TC,n.a,PABUK-18,Thailand,No people  ,102 km/h ,Tropical Storm,High 
+TC_UNK_20181224_289,Green,1,Green,1,12/24/2018,12/30/2018,83.3328,JTWC,,TC,n.a,THIRTYFIVE-18,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_AUS_20190123_290,Green,1,Green,1,1/23/2019,1/29/2019,157.4064,JTWC,AUS,TC,n.a,RILEY-19,Australia,No people  ,157 km/h ,Moderate,Low 
+TC_TON_20190226_291,Green,1,Green,1,2/26/2019,3/1/2019,175.9248,JTWC,TON,TC,n.a,POLA-19,Tonga,No people  ,176 km/h ,Moderate,Medium 
+TC_GUM_20190219_292,Green,1,Green,1,2/19/2019,2/28/2019,259.2576,JTWC,GUM,TC,n.a,WUTIP-19,Guam,No people  ,259 km/h ,Catastrophic,Medium 
+TC_SLB_20190212_293,Green,1,Green,1,2/12/2019,2/23/2019,166.6656,JTWC,NCL,TC,n.a,OMA-19,New Caledonia,No people  ,167 km/h ,Moderate,High 
+TC_SLB_20190212_293,Green,1,Green,1,2/12/2019,2/23/2019,166.6656,JTWC,SLB,TC,n.a,OMA-19,Solomon Islands,No people  ,167 km/h ,Moderate,High 
+TC_SLB_20190212_293,Green,1,Green,1,2/12/2019,2/23/2019,166.6656,JTWC,VUT,TC,n.a,OMA-19,Vanuatu,No people  ,167 km/h ,Moderate,High 
+TC_UNK_20190322_294,Orange,2,Green,1,3/22/2019,3/31/2019,212.9616,JTWC,MUS,TC,n.a,JOANINHA-19,Mauritius,40 thousand  ,213 km/h ,Extreme,N/A 
+TC_UNK_20190427_295,Red,3,Red,3,4/27/2019,5/3/2019,249.9984,JTWC,BGD,TC,n.a,FANI-19,Bangladesh,1.8 million  ,250 km/h ,Extreme,N/A 
+TC_UNK_20190427_295,Red,3,Red,3,4/27/2019,5/3/2019,249.9984,JTWC,BTN,TC,n.a,FANI-19,Bhutan,1.8 million  ,250 km/h ,Extreme,N/A 
+TC_UNK_20190427_295,Red,3,Red,3,4/27/2019,5/3/2019,249.9984,JTWC,IND,TC,n.a,FANI-19,India,1.8 million  ,250 km/h ,Extreme,N/A 
+TC_UNK_20190423_296,Green,1,Green,1,4/23/2019,4/29/2019,138.888,JTWC,,TC,n.a,LORNA-19,Ocean / Sea area,No people  ,139 km/h ,Minimal,N/A 
+TC_UNK_20190630_297,Green,1,Green,1,6/30/2019,7/6/2019,249.9984,JTWC,,TC,n.a,BARBARA-19,Ocean / Sea area,No people  ,250 km/h ,Extreme,N/A 
+TC_UNK_20190628_298,Green,1,Green,1,6/28/2019,6/30/2019,74.074,JTWC,,TC,n.a,FOUR-19,Ocean / Sea area,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_UNK_20190625_299,Green,1,Green,1,6/25/2019,6/29/2019,120.3696,JTWC,,TC,n.a,ALVIN-19,Ocean / Sea area,No people  ,120 km/h ,Minimal,N/A 
+TC_UNK_20190728_300,Green,1,Green,1,7/28/2019,8/6/2019,185.184,JTWC,,TC,n.a,FLOSSIE-19,Ocean / Sea area,No people  ,185 km/h ,Extensive,N/A 
+TC_UNK_20190727_301,Green,1,Green,1,7/27/2019,8/5/2019,231.48,JTWC,,TC,n.a,ERICK-19,Ocean / Sea area,No people  ,231 km/h ,Extreme,N/A 
+TC_UNK_20190730_302,Orange,2,Green,1,7/30/2019,8/3/2019,74.0736,JTWC,CHN,TC,n.a,WIPHA-19,China,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_UNK_20190730_302,Orange,2,Green,1,7/30/2019,8/3/2019,74.0736,JTWC,VNM,TC,n.a,WIPHA-19,Viet Nam,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,BHS,TC,n.a,DORIAN-19,Bahamas,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,BRB,TC,n.a,DORIAN-19,Barbados,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,CAN,TC,n.a,DORIAN-19,Canada,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,DMA,TC,n.a,DORIAN-19,Dominica,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,DOM,TC,n.a,DORIAN-19,Dominican Republic,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,GLP,TC,n.a,DORIAN-19,Guadeloupe,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,HTI,TC,n.a,DORIAN-19,Haiti,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,LCA,TC,n.a,DORIAN-19,Saint Lucia,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,MTQ,TC,n.a,DORIAN-19,Martinique,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,PRI,TC,n.a,DORIAN-19,Puerto Rico,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,TCA,TC,n.a,DORIAN-19,Turks And Caicos Islands,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,USA,TC,n.a,DORIAN-19,United States,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_BHS_20190824_303,Orange,2,Green,1,8/24/2019,9/9/2019,296.2944,NOAA,VCT,TC,n.a,DORIAN-19,Saint Vincent And The Grenadines,2.7 million  ,296 km/h ,Catastrophic,Low 
+TC_VNM_20190826_304,Orange,2,Green,1,8/26/2019,8/29/2019,64.8144,JTWC,CHN,TC,n.a,PODUL-19,China,No people  ,65 km/h ,Tropical Storm,High 
+TC_VNM_20190826_304,Orange,2,Green,1,8/26/2019,8/29/2019,64.8144,JTWC,KHM,TC,n.a,PODUL-19,Cambodia,No people  ,65 km/h ,Tropical Storm,High 
+TC_VNM_20190826_304,Orange,2,Green,1,8/26/2019,8/29/2019,64.8144,JTWC,MMR,TC,n.a,PODUL-19,Myanmar,No people  ,65 km/h ,Tropical Storm,High 
+TC_VNM_20190826_304,Orange,2,Green,1,8/26/2019,8/29/2019,64.8144,JTWC,PHL,TC,n.a,PODUL-19,Philippines,No people  ,65 km/h ,Tropical Storm,High 
+TC_VNM_20190826_304,Orange,2,Green,1,8/26/2019,8/29/2019,64.8144,JTWC,THA,TC,n.a,PODUL-19,Thailand,No people  ,65 km/h ,Tropical Storm,High 
+TC_VNM_20190826_304,Orange,2,Green,1,8/26/2019,8/29/2019,64.8144,JTWC,VNM,TC,n.a,PODUL-19,Viet Nam,No people  ,65 km/h ,Tropical Storm,High 
+TC_CAN_20190826_305,Green,1,Green,1,8/26/2019,8/29/2019,83.333,NOAA,CAN,TC,n.a,ERIN-19,Canada,No people  ,83 km/h ,Tropical Storm,Low 
+TC_CAN_20190826_305,Green,1,Green,1,8/26/2019,8/29/2019,83.333,NOAA,USA,TC,n.a,ERIN-19,United States,No people  ,83 km/h ,Tropical Storm,Low 
+TC_CHN_20190927_306,Orange,2,Green,1,9/27/2019,10/3/2019,166.6656,JTWC,CHN,TC,n.a,MITAG-19,China,2 million  ,167 km/h ,Moderate,Medium 
+TC_CHN_20190927_306,Orange,2,Green,1,9/27/2019,10/3/2019,166.6656,JTWC,JPN,TC,n.a,MITAG-19,Japan,2 million  ,167 km/h ,Moderate,Medium 
+TC_CHN_20190927_306,Orange,2,Green,1,9/27/2019,10/3/2019,166.6656,JTWC,KOR,TC,n.a,MITAG-19,"Korea, Republic Of",2 million  ,167 km/h ,Moderate,Medium 
+TC_BMU_20190923_307,Green,1,Green,1,9/23/2019,10/2/2019,101.8512,NOAA,BMU,TC,n.a,LORENZO-19,Bermuda,No people  ,102 km/h ,Tropical Storm,Low 
+TC_BMU_20190923_307,Green,1,Green,1,9/23/2019,10/2/2019,101.8512,NOAA,GBR,TC,n.a,LORENZO-19,United Kingdom,No people  ,102 km/h ,Tropical Storm,Low 
+TC_BMU_20190923_307,Green,1,Green,1,9/23/2019,10/2/2019,101.8512,NOAA,IRL,TC,n.a,LORENZO-19,Ireland,No people  ,102 km/h ,Tropical Storm,Low 
+TC_BMU_20190923_307,Green,1,Green,1,9/23/2019,10/2/2019,101.8512,NOAA,PRT,TC,n.a,LORENZO-19,Portugal,No people  ,102 km/h ,Tropical Storm,Low 
+TC_BMU_20190923_307,Green,1,Green,1,9/23/2019,10/2/2019,101.8512,NOAA,USA,TC,n.a,LORENZO-19,United States,No people  ,102 km/h ,Tropical Storm,Low 
+TC_MEX_20190928_308,Green,1,Green,1,9/28/2019,10/1/2019,83.3328,JTWC,MEX,TC,n.a,NARDA-19,Mexico,No people  ,83 km/h ,Tropical Storm,Medium 
+TC_VGB_20190922_309,Green,1,Green,1,9/22/2019,9/27/2019,111.1104,NOAA,BRB,TC,n.a,KAREN-19,Barbados,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_VGB_20190922_309,Green,1,Green,1,9/22/2019,9/27/2019,111.1104,NOAA,GRD,TC,n.a,KAREN-19,Grenada,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_VGB_20190922_309,Green,1,Green,1,9/22/2019,9/27/2019,111.1104,NOAA,LCA,TC,n.a,KAREN-19,Saint Lucia,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_VGB_20190922_309,Green,1,Green,1,9/22/2019,9/27/2019,111.1104,NOAA,PRI,TC,n.a,KAREN-19,Puerto Rico,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_VGB_20190922_309,Green,1,Green,1,9/22/2019,9/27/2019,111.1104,NOAA,TTO,TC,n.a,KAREN-19,Trinidad And Tobago,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_VGB_20190922_309,Green,1,Green,1,9/22/2019,9/27/2019,111.1104,NOAA,VCT,TC,n.a,KAREN-19,Saint Vincent And The Grenadines,No people  ,111 km/h ,Tropical Storm,Medium 
+TC_BGD_20191029_310,Red,3,Orange,2,10/29/2019,11/10/2019,157.4064,JTWC,BGD,TC,n.a,MATMO-19/BULBUL-19,Bangladesh,7.6 million  ,157 km/h ,Moderate,High 
+TC_BGD_20191029_310,Red,3,Orange,2,10/29/2019,11/10/2019,157.4064,JTWC,IND,TC,n.a,MATMO-19/BULBUL-19,India,7.6 million  ,157 km/h ,Moderate,High 
+TC_BGD_20191029_310,Red,3,Orange,2,10/29/2019,11/10/2019,157.4064,JTWC,KHM,TC,n.a,MATMO-19/BULBUL-19,Cambodia,7.6 million  ,157 km/h ,Moderate,High 
+TC_BGD_20191029_310,Red,3,Orange,2,10/29/2019,11/10/2019,157.4064,JTWC,MMR,TC,n.a,MATMO-19/BULBUL-19,Myanmar,7.6 million  ,157 km/h ,Moderate,High 
+TC_BGD_20191029_310,Red,3,Orange,2,10/29/2019,11/10/2019,157.4064,JTWC,THA,TC,n.a,MATMO-19/BULBUL-19,Thailand,7.6 million  ,157 km/h ,Moderate,High 
+TC_BGD_20191029_310,Red,3,Orange,2,10/29/2019,11/10/2019,157.4064,JTWC,VNM,TC,n.a,MATMO-19/BULBUL-19,Viet Nam,7.6 million  ,157 km/h ,Moderate,High 
+TC_IND_20191030_311,Green,1,Green,1,10/30/2019,11/6/2019,194.4432,JTWC,IND,TC,n.a,MAHA-19,India,No people  ,194 km/h ,Extensive,High 
+TC_UNK_20191030_312,Green,1,Green,1,10/30/2019,11/1/2019,74.074,NOAA,PRT,TC,n.a,REBEKAH-19,Portugal,No people  ,74 km/h ,Tropical Storm,N/A 
+TC_IND_20191024_313,Green,1,Green,1,10/24/2019,10/31/2019,249.9984,JTWC,IND,TC,n.a,KYARR-19,India,No people  ,250 km/h ,Extreme,High 
+TC_IND_20191024_313,Green,1,Green,1,10/24/2019,10/31/2019,249.9984,JTWC,SOM,TC,n.a,KYARR-19,Somalia,No people  ,250 km/h ,Extreme,High 
+TC_IND_20191024_313,Green,1,Green,1,10/24/2019,10/31/2019,249.9984,JTWC,YEM,TC,n.a,KYARR-19,Yemen,No people  ,250 km/h ,Extreme,High 
+TC_PRT_20191025_314,Green,1,Green,1,10/25/2019,10/28/2019,129.6288,NOAA,PRT,TC,n.a,PABLO-19,Portugal,No people  ,130 km/h ,Minimal,Low 
+TC_PHL_20191125_315,Red,3,Green,1,11/25/2019,12/5/2019,212.9616,JTWC,GUM,TC,n.a,KAMMURI-19,Guam,34.9 million  ,213 km/h ,Extreme,Medium 
+TC_PHL_20191125_315,Red,3,Green,1,11/25/2019,12/5/2019,212.9616,JTWC,MNP,TC,n.a,KAMMURI-19,Northern Mariana Islands,34.9 million  ,213 km/h ,Extreme,Medium 
+TC_PHL_20191125_315,Red,3,Green,1,11/25/2019,12/5/2019,212.9616,JTWC,PHL,TC,n.a,KAMMURI-19,Philippines,34.9 million  ,213 km/h ,Extreme,Medium 
+TC_SLB_20191124_316,Green,1,Green,1,11/24/2019,11/26/2019,129.629,JTWC,SLB,TC,n.a,RITA-19,Solomon Islands,No people  ,130 km/h ,Minimal,High 
+TC_SLB_20191124_316,Green,1,Green,1,11/24/2019,11/26/2019,129.629,JTWC,VUT,TC,n.a,RITA-19,Vanuatu,No people  ,130 km/h ,Minimal,High 
+TC_MUS_20191229_317,Green,1,Green,1,12/29/2019,1/1/2020,129.6288,JTWC,MUS,TC,n.a,CALVINIA-19,Mauritius,No people  ,130 km/h ,Minimal,Medium 
+TC_FJI_20191226_318,Green,1,Green,1,12/26/2019,12/31/2019,129.6288,JTWC,FJI,TC,n.a,SARAI-19,Fiji,10 thousand  ,130 km/h ,Minimal,Medium 
+TC_FJI_20191226_318,Green,1,Green,1,12/26/2019,12/31/2019,129.6288,JTWC,NIU,TC,n.a,SARAI-19,Niue,10 thousand  ,130 km/h ,Minimal,Medium 
+TC_FJI_20191226_318,Green,1,Green,1,12/26/2019,12/31/2019,129.6288,JTWC,TON,TC,n.a,SARAI-19,Tonga,10 thousand  ,130 km/h ,Minimal,Medium 
+TC_PHL_20191221_319,Orange,2,Green,1,12/21/2019,12/28/2019,175.9248,JTWC,PHL,TC,n.a,PHANFONE-19,Philippines,4.5 million  ,176 km/h ,Moderate,Medium 
+TC_UNK_20200223_320,Green,1,Green,1,2/23/2020,2/29/2020,175.9248,JTWC,,TC,n.a,FERDINAND-20,Ocean / Sea area,No people  ,176 km/h ,Moderate,N/A 
+TC_AUS_20200223_321,Green,1,Green,1,2/23/2020,2/24/2020,92.592,JTWC,AUS,TC,n.a,ESTHER-20,Australia,No people  ,93 km/h ,Tropical Storm,Low 
+TC_UNK_20200425_322,Green,1,Green,1,4/25/2020,4/26/2020,55.5552,NOAA,,TC,n.a,0NE-20,Ocean / Sea area,No people  ,56 km/h Tropical depression,Tropical Storm,N/A 
+TC_SLV_20200530_323,Green,1,Green,1,5/30/2020,5/31/2020,64.8144,NOAA,GTM,TC,n.a,AMANDA-20,Guatemala,No people  ,65 km/h ,Tropical Storm,High 
+TC_SLV_20200530_323,Green,1,Green,1,5/30/2020,5/31/2020,64.8144,NOAA,MEX,TC,n.a,AMANDA-20,Mexico,No people  ,65 km/h ,Tropical Storm,High 
+TC_SLV_20200530_323,Green,1,Green,1,5/30/2020,5/31/2020,64.8144,NOAA,SLV,TC,n.a,AMANDA-20,El Salvador,No people  ,65 km/h ,Tropical Storm,High 
+TC_USA_20200527_324,Green,1,Green,1,5/27/2020,5/27/2020,83.3328,NOAA,USA,TC,n.a,BERTHA-20,United States,No people  ,83 km/h ,Tropical Storm,Low 
+TC_UNK_20200630_325,Green,1,Green,1,6/30/2020,6/30/2020,55.5552,NOAA,,TC,n.a,FOUR-E-20,Ocean / Sea area,No people  ,56 km/h Tropical depression,Tropical Storm,N/A 
+TC_UNK_20200624_326,Green,1,Green,1,6/24/2020,6/28/2020,64.8144,NOAA,,TC,n.a,BORIS-20,Ocean / Sea area,No people  ,65 km/h ,Tropical Storm,N/A 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,ABW,TC,n.a,ISAIAS-20,Aruba,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,AIA,TC,n.a,ISAIAS-20,Anguilla,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,ATG,TC,n.a,ISAIAS-20,Antigua And Barbuda,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,BHS,TC,n.a,ISAIAS-20,Bahamas,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,BRB,TC,n.a,ISAIAS-20,Barbados,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,COL,TC,n.a,ISAIAS-20,Colombia,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,CUB,TC,n.a,ISAIAS-20,Cuba,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,DMA,TC,n.a,ISAIAS-20,Dominica,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,DOM,TC,n.a,ISAIAS-20,Dominican Republic,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,GLP,TC,n.a,ISAIAS-20,Guadeloupe,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,GRD,TC,n.a,ISAIAS-20,Grenada,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,HTI,TC,n.a,ISAIAS-20,Haiti,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,JAM,TC,n.a,ISAIAS-20,Jamaica,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,KNA,TC,n.a,ISAIAS-20,Saint Kitts And Nevis,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,LCA,TC,n.a,ISAIAS-20,Saint Lucia,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,MSR,TC,n.a,ISAIAS-20,Montserrat,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,MTQ,TC,n.a,ISAIAS-20,Martinique,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,NLD,TC,n.a,ISAIAS-20,Netherlands,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,PRI,TC,n.a,ISAIAS-20,Puerto Rico,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,TCA,TC,n.a,ISAIAS-20,Turks And Caicos Islands,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,TTO,TC,n.a,ISAIAS-20,Trinidad And Tobago,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,USA,TC,n.a,ISAIAS-20,United States,920 thousand  ,139 km/h ,Minimal,Low 
+TC_BHS_20200728_327,Orange,2,Green,1,7/28/2020,8/5/2020,138.888,NOAA,VCT,TC,n.a,ISAIAS-20,Saint Vincent And The Grenadines,920 thousand  ,139 km/h ,Minimal,Low 
+TC_UNK_20200731_328,Green,1,Green,1,7/31/2020,8/2/2020,55.5552,NOAA,,TC,n.a,TEN-20,Ocean / Sea area,No people  ,56 km/h Tropical depression,Tropical Storm,N/A 
+TC_USA_20200720_329,Green,1,Green,1,7/20/2020,7/29/2020,212.9616,NOAA,USA,TC,n.a,DOUGLAS-20,United States,No people  ,213 km/h ,Extreme,Low 
+TC_PRK_20200831_330,Red,3,Orange,2,8/31/2020,9/7/2020,249.9984,JTWC,CHN,TC,n.a,HAISHEN-20,China,29.9 million  ,250 km/h ,Extreme,High 
+TC_PRK_20200831_330,Red,3,Orange,2,8/31/2020,9/7/2020,249.9984,JTWC,JPN,TC,n.a,HAISHEN-20,Japan,29.9 million  ,250 km/h ,Extreme,High 
+TC_PRK_20200831_330,Red,3,Orange,2,8/31/2020,9/7/2020,249.9984,JTWC,KOR,TC,n.a,HAISHEN-20,"Korea, Republic Of",29.9 million  ,250 km/h ,Extreme,High 
+TC_UNK_20200831_331,Green,1,Green,1,8/31/2020,9/5/2020,64.8144,NOAA,,TC,n.a,OMAR-20,Ocean / Sea area,No people  ,65 km/h ,Tropical Storm,N/A 
+TC_PRK_20200828_332,Red,3,Red,3,8/28/2020,9/2/2020,231.48,JTWC,CHN,TC,n.a,MAYSAK-20,China,18.3 million  ,231 km/h ,Extreme,High 
+TC_PRK_20200828_332,Red,3,Red,3,8/28/2020,9/2/2020,231.48,JTWC,JPN,TC,n.a,MAYSAK-20,Japan,18.3 million  ,231 km/h ,Extreme,High 
+TC_UNK_20200826_333,Green,1,Green,1,8/26/2020,8/30/2020,92.592,NOAA,,TC,n.a,ISELLE-20,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_MEX_20200826_334,Green,1,Green,1,8/26/2020,8/28/2020,74.0736,NOAA,MEX,TC,n.a,HERNAN-20,Mexico,No people  ,74 km/h ,Tropical Storm,Medium 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,AIA,TC,n.a,LAURA-20,Anguilla,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,ATG,TC,n.a,LAURA-20,Antigua And Barbuda,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,BHS,TC,n.a,LAURA-20,Bahamas,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,CUB,TC,n.a,LAURA-20,Cuba,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,DMA,TC,n.a,LAURA-20,Dominica,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,DOM,TC,n.a,LAURA-20,Dominican Republic,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,GLP,TC,n.a,LAURA-20,Guadeloupe,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,HTI,TC,n.a,LAURA-20,Haiti,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,JAM,TC,n.a,LAURA-20,Jamaica,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,KNA,TC,n.a,LAURA-20,Saint Kitts And Nevis,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,MSR,TC,n.a,LAURA-20,Montserrat,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,PRI,TC,n.a,LAURA-20,Puerto Rico,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,TCA,TC,n.a,LAURA-20,Turks And Caicos Islands,1.2 million  ,241 km/h ,Extreme,Low 
+TC_USA_20200820_335,Orange,2,Green,1,8/20/2020,8/28/2020,240.7392,NOAA,USA,TC,n.a,LAURA-20,United States,1.2 million  ,241 km/h ,Extreme,Low 
+TC_PRK_20200821_336,Red,3,Orange,2,8/21/2020,8/27/2020,185.184,JTWC,CHN,TC,n.a,BAVI-20,China,2.7 million  ,185 km/h ,Extensive,High 
+TC_PRK_20200821_336,Red,3,Orange,2,8/21/2020,8/27/2020,185.184,JTWC,KOR,TC,n.a,BAVI-20,"Korea, Republic Of",2.7 million  ,185 km/h ,Extensive,High 
+TC_UNK_20200929_337,Green,1,Green,1,9/29/2020,10/7/2020,212.9616,NOAA,,TC,n.a,MARIE-20,Ocean / Sea area,No people  ,213 km/h ,Extreme,N/A 
+TC_UNK_20200926_338,Green,1,Green,1,9/26/2020,9/29/2020,120.3696,JTWC,,TC,n.a,KUJIRA-20,Ocean / Sea area,No people  ,120 km/h ,Minimal,N/A 
+TC_UNK_20200920_339,Green,1,Green,1,9/20/2020,9/25/2020,83.3328,NOAA,,TC,n.a,LOWELL-20,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_NIC_20201031_340,Red,3,Green,1,10/31/2020,11/13/2020,240.7392,NOAA,HND,TC,n.a,ETA-20,Honduras,200 thousand  ,241 km/h ,Extreme,Medium 
+TC_NIC_20201031_340,Red,3,Green,1,10/31/2020,11/13/2020,240.7392,NOAA,NIC,TC,n.a,ETA-20,Nicaragua,200 thousand  ,241 km/h ,Extreme,Medium 
+TC_NIC_20201031_340,Red,3,Green,1,10/31/2020,11/13/2020,240.7392,NOAA,USA,TC,n.a,ETA-20,United States,200 thousand  ,241 km/h ,Extreme,Medium 
+TC_CHN_20201029_341,Green,1,Green,1,10/29/2020,11/7/2020,101.8512,JTWC,CHN,TC,n.a,ASTANI-20,China,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_CHN_20201029_341,Green,1,Green,1,10/29/2020,11/7/2020,101.8512,JTWC,KHM,TC,n.a,ASTANI-20,Cambodia,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_CHN_20201029_341,Green,1,Green,1,10/29/2020,11/7/2020,101.8512,JTWC,PHL,TC,n.a,ASTANI-20,Philippines,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_CHN_20201029_341,Green,1,Green,1,10/29/2020,11/7/2020,101.8512,JTWC,VNM,TC,n.a,ASTANI-20,Viet Nam,No people  ,102 km/h ,Tropical Storm,Medium 
+TC_PHL_20201028_342,Red,3,Green,1,10/28/2020,11/6/2020,314.8128,JTWC,PHL,TC,n.a,GONI-20,Philippines,24.4 million  ,315 km/h ,Catastrophic,Medium 
+TC_MEX_20201024_343,Orange,2,Green,1,10/24/2020,10/29/2020,175.9248,NOAA,CUB,TC,n.a,ZETA-20,Cuba,3.2 million  ,176 km/h ,Moderate,Medium 
+TC_MEX_20201024_343,Orange,2,Green,1,10/24/2020,10/29/2020,175.9248,NOAA,MEX,TC,n.a,ZETA-20,Mexico,3.2 million  ,176 km/h ,Moderate,Medium 
+TC_MEX_20201024_343,Orange,2,Green,1,10/24/2020,10/29/2020,175.9248,NOAA,USA,TC,n.a,ZETA-20,United States,3.2 million  ,176 km/h ,Moderate,Medium 
+TC_VNM_20201024_344,Red,3,Red,3,10/24/2020,10/28/2020,203.7024,JTWC,KHM,TC,n.a,MOLAVE-20,Cambodia,4.9 million  ,204 km/h ,Extensive,High 
+TC_VNM_20201024_344,Red,3,Red,3,10/24/2020,10/28/2020,203.7024,JTWC,PHL,TC,n.a,MOLAVE-20,Philippines,4.9 million  ,204 km/h ,Extensive,High 
+TC_VNM_20201024_344,Red,3,Red,3,10/24/2020,10/28/2020,203.7024,JTWC,THA,TC,n.a,MOLAVE-20,Thailand,4.9 million  ,204 km/h ,Extensive,High 
+TC_VNM_20201024_344,Red,3,Red,3,10/24/2020,10/28/2020,203.7024,JTWC,VNM,TC,n.a,MOLAVE-20,Viet Nam,4.9 million  ,204 km/h ,Extensive,High 
+TC_IND_20201123_345,Red,3,Orange,2,11/23/2020,11/26/2020,129.6288,JTWC,IND,TC,n.a,NIVAR-20,India,6.1 million  ,130 km/h ,Minimal,High 
+TC_MDG_20201224_346,Green,1,Green,1,12/24/2020,12/30/2020,111.1104,JTWC,BWA,TC,n.a,CHALANE-20,Botswana,No people  ,111 km/h ,Tropical Storm,High 
+TC_MDG_20201224_346,Green,1,Green,1,12/24/2020,12/30/2020,111.1104,JTWC,MDG,TC,n.a,CHALANE-20,Madagascar,No people  ,111 km/h ,Tropical Storm,High 
+TC_MDG_20201224_346,Green,1,Green,1,12/24/2020,12/30/2020,111.1104,JTWC,MOZ,TC,n.a,CHALANE-20,Mozambique,No people  ,111 km/h ,Tropical Storm,High 
+TC_MDG_20201224_346,Green,1,Green,1,12/24/2020,12/30/2020,111.1104,JTWC,ZWE,TC,n.a,CHALANE-20,Zimbabwe,No people  ,111 km/h ,Tropical Storm,High 
+TC_AUS_20210131_347,Green,1,Green,1,1/31/2021,2/5/2021,64.8144,JTWC,AUS,TC,n.a,EIGHTEEN-21,Australia,No people  ,65 km/h ,Tropical Storm,Low 
+TC_NCL_20210131_348,Green,1,Green,1,1/31/2021,2/3/2021,120.3696,JTWC,NCL,TC,n.a,LUCAS-21,New Caledonia,No people  ,120 km/h ,Minimal,Medium 
+TC_NCL_20210131_348,Green,1,Green,1,1/31/2021,2/3/2021,120.3696,JTWC,SLB,TC,n.a,LUCAS-21,Solomon Islands,No people  ,120 km/h ,Minimal,Medium 
+TC_NCL_20210131_348,Green,1,Green,1,1/31/2021,2/3/2021,120.3696,JTWC,VUT,TC,n.a,LUCAS-21,Vanuatu,No people  ,120 km/h ,Minimal,Medium 
+TC_FJI_20210130_349,Orange,2,Green,1,1/30/2021,2/1/2021,120.3696,JTWC,FJI,TC,n.a,ANA-21,Fiji,310 thousand  ,120 km/h ,Minimal,Medium 
+TC_FJI_20210130_350,Green,1,Green,1,1/30/2021,2/1/2021,83.3328,JTWC,FJI,TC,n.a,BINA-21,Fiji,No people  ,83 km/h ,Tropical Storm,Medium 
+TC_FJI_20210130_350,Green,1,Green,1,1/30/2021,2/1/2021,83.3328,JTWC,TON,TC,n.a,BINA-21,Tonga,No people  ,83 km/h ,Tropical Storm,Medium 
+TC_FJI_20210130_350,Green,1,Green,1,1/30/2021,2/1/2021,83.3328,JTWC,WLF,TC,n.a,BINA-21,Wallis And Futuna,No people  ,83 km/h ,Tropical Storm,Medium 
+TC_CCK_20210121_351,Green,1,Green,1,1/21/2021,1/28/2021,64.8144,JTWC,CCK,TC,n.a,THIRTEEN-21,Cocos (Keeling) Islands,No people  ,65 km/h ,Tropical Storm,Low 
+TC_CCK_20210226_352,Green,1,Green,1,2/26/2021,3/6/2021,185.184,JTWC,CCK,TC,n.a,MARIAN-21,Cocos (Keeling) Islands,No people  ,185 km/h ,Extensive,Low 
+TC_CHN_20210529_353,Green,1,Green,1,5/29/2021,6/5/2021,92.592,JTWC,CHN,TC,TC 1000785,CHOI-WAN-21,China,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_CHN_20210529_353,Green,1,Green,1,5/29/2021,6/5/2021,92.592,JTWC,JPN,TC,TC 1000785,CHOI-WAN-21,Japan,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_CHN_20210529_353,Green,1,Green,1,5/29/2021,6/5/2021,92.592,JTWC,PHL,TC,TC 1000785,CHOI-WAN-21,Philippines,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_UNK_20210530_354,Green,1,Green,1,5/30/2021,6/4/2021,92.592,NOAA,,TC,TC 1000786,BLANCA-21,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,BRB,TC,n.a,ELSA-21,Barbados,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,CUB,TC,n.a,ELSA-21,Cuba,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,DMA,TC,n.a,ELSA-21,Dominica,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,DOM,TC,n.a,ELSA-21,Dominican Republic,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,GLP,TC,n.a,ELSA-21,Guadeloupe,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,GRD,TC,n.a,ELSA-21,Grenada,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,HTI,TC,n.a,ELSA-21,Haiti,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,JAM,TC,n.a,ELSA-21,Jamaica,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,LCA,TC,n.a,ELSA-21,Saint Lucia,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,MTQ,TC,n.a,ELSA-21,Martinique,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,TTO,TC,n.a,ELSA-21,Trinidad And Tobago,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,USA,TC,n.a,ELSA-21,United States,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_VCT_20210630_355,Orange,2,Green,1,6/30/2021,7/9/2021,138.888,NOAA,VCT,TC,n.a,ELSA-21,Saint Vincent And The Grenadines,90 thousand  ,139 km/h ,Minimal,Medium 
+TC_MEX_20210625_356,Green,1,Green,1,6/25/2021,6/30/2021,148.1472,NOAA,MEX,TC,n.a,ENRIQUE-21,Mexico,No people  ,148 km/h ,Minimal,Medium 
+TC_UNK_20210730_357,Green,1,Green,1,7/30/2021,8/7/2021,64.8144,NOAA,,TC,n.a,JIMENA-21,Ocean / Sea area,No people  ,65 km/h ,Tropical Storm,N/A 
+TC_UNK_20210730_358,Green,1,Green,1,7/30/2021,8/6/2021,138.888,NOAA,,TC,n.a,HILDA-21,Ocean / Sea area,No people  ,139 km/h ,Minimal,N/A 
+TC_CAN_20210831_359,Green,1,Green,1,8/31/2021,9/11/2021,203.7024,NOAA,CAN,TC,n.a,LARRY-21,Canada,420 thousand  ,204 km/h ,Extensive,Low 
+TC_CAN_20210831_359,Green,1,Green,1,8/31/2021,9/11/2021,203.7024,NOAA,SPM,TC,n.a,LARRY-21,Saint Pierre And Miquelon,420 thousand  ,204 km/h ,Extensive,Low 
+TC_GRL_20210922_360,Green,1,Green,1,9/22/2021,10/5/2021,240.7392,NOAA,FRO,TC,n.a,SAM-21,Faroe Islands,No people  ,241 km/h ,Extreme,Low 
+TC_GRL_20210922_360,Green,1,Green,1,9/22/2021,10/5/2021,240.7392,NOAA,GRL,TC,n.a,SAM-21,Greenland,No people  ,241 km/h ,Extreme,Low 
+TC_GRL_20210922_360,Green,1,Green,1,9/22/2021,10/5/2021,240.7392,NOAA,ISL,TC,n.a,SAM-21,Iceland,No people  ,241 km/h ,Extreme,Low 
+TC_UNK_20210929_361,Green,1,Green,1,9/29/2021,10/4/2021,101.8512,NOAA,,TC,n.a,VICTOR-21,Ocean / Sea area,No people  ,102 km/h ,Tropical Storm,N/A 
+TC_OMN_20210924_362,Orange,2,Green,1,9/24/2021,10/3/2021,129.6288,JTWC,OMN,TC,n.a,GULAB-21/SHAHEEN-21,Oman,280 thousand  ,130 km/h ,Minimal,Medium 
+TC_GUM_20210922_363,Green,1,Green,1,9/22/2021,10/1/2021,268.5168,JTWC,GUM,TC,n.a,MINDULLE-21,Guam,No people  ,269 km/h ,Catastrophic,Medium 
+TC_GUM_20210922_363,Green,1,Green,1,9/22/2021,10/1/2021,268.5168,JTWC,JPN,TC,n.a,MINDULLE-21,Japan,No people  ,269 km/h ,Catastrophic,Medium 
+TC_GUM_20210922_363,Green,1,Green,1,9/22/2021,10/1/2021,268.5168,JTWC,RUS,TC,n.a,MINDULLE-21,Russian Federation,No people  ,269 km/h ,Catastrophic,Medium 
+TC_UNK_20211129_364,Green,1,Green,1,11/29/2021,11/30/2021,166.6656,JTWC,,TC,n.a,NYATOH-21,Ocean / Sea area,No people  ,167 km/h ,Moderate,N/A 
+TC_UNK_20211231_365,Green,1,Green,1,12/31/2021,1/1/2022,101.8512,JTWC,,TC,n.a,SETH-22,Ocean / Sea area,No people  ,102 km/h ,Tropical Storm,N/A 
+TC_MDG_20220127_366,Red,3,Green,1,1/27/2022,2/8/2022,231.48,JTWC,MDG,TC,n.a,BATSIRAI-22,Madagascar,2.9 million  ,231 km/h ,Extreme,High 
+TC_UNK_20220131_367,Green,1,Green,1,1/31/2022,2/3/2022,64.8144,JTWC,,TC,n.a,NINE-22,Ocean / Sea area,No people  ,65 km/h ,Tropical Storm,N/A 
+TC_MEX_20220528_368,Orange,2,Green,1,5/28/2022,5/31/2022,175.9248,NOAA,MEX,TC,176 km/h,AGATHA-22,Mexico,220 thousand  ,176 km/h ,Moderate,Medium 
+TC_CRI_20220627_369,Green,1,Green,1,6/27/2022,7/9/2022,185.184,NOAA,ABW,TC,185 km/h,BONNIE-22,Aruba,No people  ,185 km/h ,Extensive,Medium 
+TC_CRI_20220627_369,Green,1,Green,1,6/27/2022,7/9/2022,185.184,NOAA,COL,TC,185 km/h,BONNIE-22,Colombia,No people  ,185 km/h ,Extensive,Medium 
+TC_CRI_20220627_369,Green,1,Green,1,6/27/2022,7/9/2022,185.184,NOAA,CRI,TC,185 km/h,BONNIE-22,Costa Rica,No people  ,185 km/h ,Extensive,Medium 
+TC_CRI_20220627_369,Green,1,Green,1,6/27/2022,7/9/2022,185.184,NOAA,NIC,TC,185 km/h,BONNIE-22,Nicaragua,No people  ,185 km/h ,Extensive,Medium 
+TC_CRI_20220627_369,Green,1,Green,1,6/27/2022,7/9/2022,185.184,NOAA,NLD,TC,185 km/h,BONNIE-22,Netherlands,No people  ,185 km/h ,Extensive,Medium 
+TC_CRI_20220627_369,Green,1,Green,1,6/27/2022,7/9/2022,185.184,NOAA,PAN,TC,185 km/h,BONNIE-22,Panama,No people  ,185 km/h ,Extensive,Medium 
+TC_CRI_20220627_369,Green,1,Green,1,6/27/2022,7/9/2022,185.184,NOAA,TTO,TC,185 km/h,BONNIE-22,Trinidad And Tobago,No people  ,185 km/h ,Extensive,Medium 
+TC_JPN_20220630_370,Green,1,Green,1,6/30/2022,7/6/2022,83.3328,JTWC,JPN,TC,83 km/h,AERE-22,Japan,No people  ,83 km/h ,Tropical Storm,Low 
+TC_MEX_20220929_371,Orange,2,Green,1,9/29/2022,10/4/2022,212.9616,NOAA,MEX,TC,213 km/h,ORLENE-22,Mexico,110 thousand  ,213 km/h ,Extreme,Medium 
+TC_CUB_20220923_372,Red,3,Green,1,9/23/2022,10/2/2022,249.9984,NOAA,CUB,TC,250 km/h,IAN-22,Cuba,5.2 million  ,250 km/h ,Extreme,Low 
+TC_CUB_20220923_372,Red,3,Green,1,9/23/2022,10/2/2022,249.9984,NOAA,USA,TC,250 km/h,IAN-22,United States,5.2 million  ,250 km/h ,Extreme,Low 
+TC_UNK_20220928_373,Green,1,Green,1,9/28/2022,10/2/2022,157.4064,JTWC,,TC,157 km/h,ROKE-22,Ocean / Sea area,No people  ,157 km/h ,Moderate,N/A 
+TC_UNK_20220928_374,Green,1,Green,1,9/28/2022,9/29/2022,55.5552,NOAA,,TC,56 km/h,ELEVEN-22,Ocean / Sea area,No people  ,56 km/h Tropical depression,Tropical Storm,N/A 
+TC_MDG_20230206_375,Red,3,Red,3,2/6/2023,3/12/2023,249.9984,JTWC,MDG,TC,250 km/h,FREDDY-23,Madagascar,2.9 million  ,250 km/h ,Extreme,High 
+TC_MDG_20230206_375,Red,3,Red,3,2/6/2023,3/12/2023,249.9984,JTWC,MOZ,TC,250 km/h,FREDDY-23,Mozambique,2.9 million  ,250 km/h ,Extreme,High 
+TC_UNK_20230731_376,Green,1,Green,1,7/31/2023,8/11/2023,231.48,NOAA,,TC,231 km/h,DORA-23,Ocean / Sea area,No people  ,231 km/h ,Extreme,N/A 
+TC_JPN_20230727_377,Orange,2,Green,1,7/27/2023,8/10/2023,222.2208,JTWC,JPN,TC,222 km/h,KHANUN-23,Japan,1.3 million  ,222 km/h ,Extreme,Low 
+TC_CHN_20230828_378,Red,3,Green,1,8/28/2023,9/4/2023,194.4432,JTWC,CHN,TC,194 km/h,HAIKUI-23,China,5.3 million  ,194 km/h ,Extensive,Medium 
+TC_CHN_20230929_379,Red,3,Green,1,9/29/2023,10/10/2023,212.9616,JTWC,CHN,TC,213 km/h,KOINU-23,China,3.8 million  ,213 km/h ,Extreme,Medium 
+TC_CHN_20230929_379,Red,3,Green,1,9/29/2023,10/10/2023,212.9616,JTWC,JPN,TC,213 km/h,KOINU-23,Japan,3.8 million  ,213 km/h ,Extreme,Medium 
+TC_CHN_20230929_379,Red,3,Green,1,9/29/2023,10/10/2023,212.9616,JTWC,PHL,TC,213 km/h,KOINU-23,Philippines,3.8 million  ,213 km/h ,Extreme,Medium 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,AIA,TC,93 km/h,PHILIPPE-23,Anguilla,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,ATG,TC,93 km/h,PHILIPPE-23,Antigua And Barbuda,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,BMU,TC,93 km/h,PHILIPPE-23,Bermuda,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,CAN,TC,93 km/h,PHILIPPE-23,Canada,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,DMA,TC,93 km/h,PHILIPPE-23,Dominica,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,GLP,TC,93 km/h,PHILIPPE-23,Guadeloupe,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,KNA,TC,93 km/h,PHILIPPE-23,Saint Kitts And Nevis,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,MSR,TC,93 km/h,PHILIPPE-23,Montserrat,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,MTQ,TC,93 km/h,PHILIPPE-23,Martinique,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,PRI,TC,93 km/h,PHILIPPE-23,Puerto Rico,No people  ,93 km/h ,Tropical Storm,High 
+TC_MSR_20230923_380,Green,1,Green,1,9/23/2023,10/6/2023,92.592,NOAA,USA,TC,93 km/h,PHILIPPE-23,United States,No people  ,93 km/h ,Tropical Storm,High 
+TC_UNK_20231028_381,Green,1,Green,1,10/28/2023,11/6/2023,92.592,NOAA,,TC,93 km/h,PILAR-23,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_MDG_20231231_382,Green,1,Green,1,12/31/2023,1/4/2024,126.665856,RSMC,MDG,TC,111 km/h,ALVARO-24,Madagascar,No people  ,127 km/h ,Minimal,High 
+TC_UNK_20240130_383,Green,1,Green,1,1/30/2024,2/2/2024,94.999392,RSMC,,TC,65 km/h,05-20232024-24,Ocean / Sea area,No people  ,95 km/h ,Tropical Storm,N/A 
+TC_AUS_20240123_384,Green,1,Green,1,1/23/2024,2/2/2024,101.8512,JTWC,AUS,TC,102 km/h,KIRRILY-24,Australia,No people  ,102 km/h ,Tropical Storm,Low 
+TC_UNK_20240115_385,Green,1,Green,1,1/15/2024,1/31/2024,212.9616,JTWC,,TC,213 km/h,ANGGREK-24,Ocean / Sea area,No people  ,213 km/h ,Extreme,N/A 
+TC_UNK_20240531_386,Green,1,Green,1,5/31/2024,5/31/2024,55.5552,JTWC,CHN,TC,56 km/h,MALIKSI-24,China,No people  ,56 km/h Tropical depression,Tropical Storm,N/A 
+TC_PHL_20240524_387,Green,1,Green,1,5/24/2024,5/31/2024,175.9248,JTWC,JPN,TC,176 km/h,EWINIAR-24,Japan,30 thousand  ,176 km/h ,Moderate,Medium 
+TC_PHL_20240524_387,Green,1,Green,1,5/24/2024,5/31/2024,175.9248,JTWC,PHL,TC,176 km/h,EWINIAR-24,Philippines,30 thousand  ,176 km/h ,Moderate,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,BLZ,TC,269 km/h,BERYL-24,Belize,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,GRD,TC,269 km/h,BERYL-24,Grenada,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,HTI,TC,269 km/h,BERYL-24,Haiti,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,JAM,TC,269 km/h,BERYL-24,Jamaica,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,MEX,TC,269 km/h,BERYL-24,Mexico,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,TTO,TC,269 km/h,BERYL-24,Trinidad And Tobago,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,USA,TC,269 km/h,BERYL-24,United States,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_JAM_20240628_388,Red,3,Green,1,6/28/2024,7/9/2024,268.5168,NOAA,VCT,TC,269 km/h,BERYL-24,Saint Vincent And The Grenadines,9 million  ,269 km/h ,Catastrophic,Medium 
+TC_PRT_20240929_389,Green,1,Green,1,9/29/2024,10/7/2024,231.48,NOAA,BEL,TC,231 km/h,KIRK-24,Belgium,No people  ,231 km/h ,Extreme,Low 
+TC_PRT_20240929_389,Green,1,Green,1,9/29/2024,10/7/2024,231.48,NOAA,DEU,TC,231 km/h,KIRK-24,Germany,No people  ,231 km/h ,Extreme,Low 
+TC_PRT_20240929_389,Green,1,Green,1,9/29/2024,10/7/2024,231.48,NOAA,ESP,TC,231 km/h,KIRK-24,Spain,No people  ,231 km/h ,Extreme,Low 
+TC_PRT_20240929_389,Green,1,Green,1,9/29/2024,10/7/2024,231.48,NOAA,FRA,TC,231 km/h,KIRK-24,France,No people  ,231 km/h ,Extreme,Low 
+TC_PRT_20240929_389,Green,1,Green,1,9/29/2024,10/7/2024,231.48,NOAA,GBR,TC,231 km/h,KIRK-24,United Kingdom,No people  ,231 km/h ,Extreme,Low 
+TC_PRT_20240929_389,Green,1,Green,1,9/29/2024,10/7/2024,231.48,NOAA,LUX,TC,231 km/h,KIRK-24,Luxembourg,No people  ,231 km/h ,Extreme,Low 
+TC_PRT_20240929_389,Green,1,Green,1,9/29/2024,10/7/2024,231.48,NOAA,PRT,TC,231 km/h,KIRK-24,Portugal,No people  ,231 km/h ,Extreme,Low 
+TC_PHL_20240927_390,Orange,2,Green,1,9/27/2024,10/3/2024,240.7392,JTWC,CHN,TC,241 km/h,KRATHON-24,China,4.9 million  ,241 km/h ,Extreme,Medium 
+TC_PHL_20240927_390,Orange,2,Green,1,9/27/2024,10/3/2024,240.7392,JTWC,PHL,TC,241 km/h,KRATHON-24,Philippines,4.9 million  ,241 km/h ,Extreme,Medium 
+TC_JPN_20240926_391,Green,1,Green,1,9/26/2024,10/2/2024,129.6288,JTWC,JPN,TC,130 km/h,JEBI-24,Japan,No people  ,130 km/h ,Minimal,Low 
+TC_JPN_20240926_391,Green,1,Green,1,9/26/2024,10/2/2024,129.6288,JTWC,RUS,TC,130 km/h,JEBI-24,Russian Federation,No people  ,130 km/h ,Minimal,Low 
+TC_JPN_20240926_391,Green,1,Green,1,9/26/2024,10/2/2024,129.6288,JTWC,USA,TC,130 km/h,JEBI-24,United States,No people  ,130 km/h ,Minimal,Low 
+TC_UNK_20240927_392,Green,1,Green,1,9/27/2024,10/1/2024,83.3328,NOAA,,TC,83 km/h,JOYCE-24,Ocean / Sea area,No people  ,83 km/h ,Tropical Storm,N/A 
+TC_CHN_20241025_393,Red,3,Green,1,10/25/2024,11/1/2024,240.7392,JTWC,CHN,TC,241 km/h,KONG-REY-24,China,15.8 million  ,241 km/h ,Extreme,Medium 
+TC_CHN_20241025_393,Red,3,Green,1,10/25/2024,11/1/2024,240.7392,JTWC,JPN,TC,241 km/h,KONG-REY-24,Japan,15.8 million  ,241 km/h ,Extreme,Medium 
+TC_CHN_20241025_393,Red,3,Green,1,10/25/2024,11/1/2024,240.7392,JTWC,PHL,TC,241 km/h,KONG-REY-24,Philippines,15.8 million  ,241 km/h ,Extreme,Medium 
+TC_IND_20241129_394,Orange,2,Green,1,11/29/2024,12/1/2024,92.592,JTWC,IND,TC,93 km/h,FENGAL-24,India,No people  ,93 km/h ,Tropical Storm,High 
+TC_UNK_20241127_395,Green,1,Green,1,11/27/2024,11/29/2024,92.592,JTWC,,TC,93 km/h,ROBYN-24,Ocean / Sea area,No people  ,93 km/h ,Tropical Storm,N/A 
+TC_MDG_20250130_396,Green,1,Green,1,1/30/2025,2/3/2025,94.999392,RSMC,MDG,TC,83 km/h,FAIDA-25,Madagascar,No people  ,95 km/h ,Tropical Storm,High 
+TC_MDG_20250130_396,Green,1,Green,1,1/30/2025,2/3/2025,94.999392,RSMC,MOZ,TC,83 km/h,FAIDA-25,Mozambique,No people  ,95 km/h ,Tropical Storm,High 
+TC_MDG_20250130_396,Green,1,Green,1,1/30/2025,2/3/2025,94.999392,RSMC,ZWE,TC,83 km/h,FAIDA-25,Zimbabwe,No people  ,95 km/h ,Tropical Storm,High 
+TC_MDG_20250128_397,Green,1,Green,1,1/28/2025,1/31/2025,94.999392,RSMC,ATF,TC,83 km/h,ELVIS-25,French Southern Territories,No people  ,95 km/h ,Tropical Storm,High 
+TC_MDG_20250128_397,Green,1,Green,1,1/28/2025,1/31/2025,94.999392,RSMC,MDG,TC,83 km/h,ELVIS-25,Madagascar,No people  ,95 km/h ,Tropical Storm,High 
+TC_AUS_20250222_398,Green,1,Green,1,2/22/2025,3/8/2025,212.9616,JTWC,AUS,TC,213 km/h,ALFRED-25,Australia,No people  ,213 km/h ,Extreme,Low 
+TC_MDG_20250225_399,Orange,2,Green,1,2/25/2025,3/5/2025,137.221344,RSMC,MDG,TC,130 km/h,HONDE-25,Madagascar,230 thousand  ,137 km/h ,Minimal,High 
+TC_REU_20250225_400,Red,3,Green,1,2/25/2025,3/2/2025,200.554272,RSMC,FRA,TC,194 km/h,GARANCE-25,La Reunion,960 thousand  ,201 km/h ,Extensive,Medium 
+TC_VUT_20250224_401,Green,1,Green,1,2/24/2025,2/28/2025,120.3696,JTWC,NCL,TC,120 km/h,SERU-25,New Caledonia,No people  ,120 km/h ,Minimal,Medium 
+TC_VUT_20250224_401,Green,1,Green,1,2/24/2025,2/28/2025,120.3696,JTWC,VUT,TC,120 km/h,SERU-25,Vanuatu,No people  ,120 km/h ,Minimal,Medium 
+TC_UNK_20250324_402,Green,1,Green,1,3/24/2025,4/1/2025,231.48,JTWC,,TC,231 km/h,COURTNEY-25,Ocean / Sea area,No people  ,231 km/h ,Extreme,N/A 
+TC_AUS_20250328_403,Green,1,Green,1,3/28/2025,3/28/2025,83.3328,JTWC,AUS,TC,83 km/h,DIANNE-25,Australia,No people  ,83 km/h ,Tropical Storm,Low 
+TC_MEX_20250528_404,Green,1,Green,1,5/28/2025,5/31/2025,92.592,NOAA,MEX,TC,93 km/h,ALVIN-25,Mexico,No people  ,93 km/h ,Tropical Storm,Medium 
+TC_UNK_20250629_405,Green,1,Green,1,6/29/2025,7/3/2025,185.184,NOAA,MEX,TC,185 km/h,FLOSSIE-25,Mexico,No people  ,185 km/h ,Extensive,N/A 
+TC_MEX_20250628_406,Green,1,Green,1,6/28/2025,6/30/2025,74.0736,NOAA,MEX,TC,74 km/h,BARRY-25,Mexico,No people  ,74 km/h ,Tropical Storm,Medium 

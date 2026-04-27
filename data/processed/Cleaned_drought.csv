@@ -1,0 +1,62 @@
+Disaster_Event_Id,Alert_Level,Alert_Score,Episode_Alert_Level,Episode_Alert_Score,Country,From_Date,To_Date,Severity,Source,Iso3,Event_Type,GDACS _ID,Name,Volcano_Number,Volcano_Explosivity_Index,Population_Exposure_Index,Population_Effected
+VO_UNK_20110920_2,Green,1,Green,0,Canada,9/20/2011,9/20/2011,0,MONTREAL,CAN,VO,VO 360,Iskut-Unuk River Cones,320090,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20111028_3,Green,1,Green,0,Chile-S,10/28/2011,10/28/2011,0,BUENOS AIRES,   ,VO,VO 484,"Hudson, Cerro",358057,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20111230_4,Green,1,Green,0,Vanuatu-SW Pacific,12/30/2011,12/30/2011,0,WELLINGTON,   ,VO,VO 103,Yasur,257100,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20120130_5,Green,1,Green,0,Mariana Is-C Pacific,1/30/2012,1/30/2012,0,WASHINGTON,   ,VO,VO 253,Pagan,284170,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20120228_6,Orange,2,Orange,2,Halmahera-Indonesia,2/28/2012,2/28/2012,0,DARWIN,   ,VO,VO 178,Dukono,268010,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20120324_7,Green,1,Green,0,W Indies,3/24/2012,3/24/2012,0,WASHINGTON,   ,VO,VO 491,Soufri�re Hills,360050,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20120725_8,Red,3,Red,3,Sumatra,7/25/2012,7/25/2012,0,DARWIN,   ,VO,VO 117,Kerinci,261170,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20121129_9,Green,1,Green,1,Kamchatka,11/29/2012,11/29/2012,0,TOKYO,   ,VO,VO 312,Tolbachik,300240,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20121228_10,Green,1,Green,0,Nicaragua,12/28/2012,12/28/2012,0,WASHINGTON,NIC,VO,VO 408,San Cristóbal,344020,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130129_11,Green,1,Green,0,México,1/29/2013,1/29/2013,0,WASHINGTON,   ,VO,VO 389,Colima,341040,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130123_12,Green,1,Green,0,Chile-C,1/23/2013,1/23/2013,0,BUENOS AIRES,   ,VO,VO 476,Carrán-Los Venados,357140,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130330_13,Green,1,Green,1,Guatemala,3/30/2013,3/30/2013,0,WASHINGTON,GTM,VO,VO 399,Fuego,342090,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130329_14,Green,1,Green,0,Kuril Is,3/29/2013,3/29/2013,0,TOKYO,   ,VO,VO 272,Grozny Group,290070,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130328_15,Green,1,Green,0,Chile-C,3/28/2013,3/28/2013,0,BUENOS AIRES,   ,VO,VO 469,Callaqui,357091,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130628_16,Green,1,Green,1,Kamchatka,6/28/2013,6/28/2013,0,TOKYO,   ,VO,VO 316,Shiveluch,300270,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130627_17,Green,1,Green,0,Alaska Peninsula,6/27/2013,6/27/2013,0,ANCHORAGE,   ,VO,VO 343,Pavlof,312030,Non-explosive,Uninhabited / Remote,0
+VO_UNK_20130622_18,Orange,2,Orange,2,New Guinea-NE of,6/22/2013,6/22/2013,0,DARWIN,   ,VO,VO 75,Manam,251020,Non-explosive,Uninhabited / Remote,0
+VO_IDN_20171126_19,Orange,2,Orange,1.9,Indonesia,11/26/2017,11/26/2017,0,VAAC,IDN,VO,VO 509,Agung,264020,Non-explosive,Uninhabited / Remote,0
+VO_USA_20180504_20,Orange,2,Orange,1.5,United States,5/4/2018,5/28/2018,0,VAAC,USA,VO,VO 511,Kilauea,332010,Non-explosive,Uninhabited / Remote,0
+VO_IDN_20190611_21,Green,1,Green,0.5,Indonesia,6/11/2019,8/14/2020,0,DARWIN,IDN,VO,VO 261080,Sinabung,261080,Explosive,Very high exposure,8200000
+VO_PER_20190617_22,Green,1,Green,0.5,Peru,6/17/2019,6/29/2020,0,BUENOS AIRES,PER,VO,VO 354006,Sabancaya,354006,Severe,Moderate exposure,1090000
+VO_PNG_20190618_23,Green,1,Green,0.5,Papua New Guinea,6/18/2019,3/27/2020,0,JRC,PNG,VO,VO 251020,Manam,251020,Cataclysmic,Moderate exposure,200000
+VO_REU_20190611_24,Green,1,Green,0.5,France,6/11/2019,10/25/2019,0,TOULOUSE,FRA,VO,VO 233020,"Fournaise, Piton de la",233020,Paroxysmal,Very high exposure,850000
+VO_PNG_20190627_25,Green,1,Green,0.5,Papua New Guinea,6/27/2019,10/1/2019,0,DARWIN,PNG,VO,VO 252120,Ulawun,252120,Cataclysmic,Low exposure,87000
+VO_ITA_20190719_26,Green,1,Green,0.5,Italy,7/19/2019,8/28/2020,0,TOULOUSE,ITA,VO,VO 211060,Etna,211060,Paroxysmal,Very high exposure,2750000
+VO_ITA_20190703_28,Green,1,Green,0.5,Italy,7/3/2019,7/20/2020,0,JRC,ITA,VO,VO 211040,Stromboli,211040,Severe,Moderate exposure,1000000
+VO_MEX_20190726_31,Green,1,Green,0.5,Mexico,7/26/2019,2/23/2020,0,WASHINGTON,MEX,VO,VO 341090,Popocatepetl,341090,Paroxysmal,Very high exposure,27990000
+VO_IDN_20190801_38,Green,1,Green,0.5,Indonesia,8/1/2019,4/13/2020,0,DARWIN,IDN,VO,VO 262000,Krakatau,262000,Colossal,High exposure,7380000
+VO_IDN_20191014_56,Green,1,Green,0.5,Indonesia,10/14/2019,6/22/2020,0,DARWIN,IDN,VO,VO 263250,Merapi,263250,Cataclysmic,Maximum exposure / Highly urbanized zone,24400000
+VO_ECU_20191121_60,Green,1,Green,0.5,Ecuador,11/21/2019,10/6/2020,0,WASHINGTON,ECU,VO,VO 352090,Sangay,352090,Severe,Moderate exposure,1530000
+VO_GTM_20191129_69,Green,1,Green,0.5,Guatemala,11/29/2019,1/9/2020,0,JRC,GTM,VO,VO 342090,Fuego,342090,Cataclysmic,Very high exposure,8730000
+VO_IDN_20200118_88,Green,1,Green,0.5,Indonesia,1/18/2020,3/5/2020,0,DARWIN,IDN,VO,VO 263300,Semeru,263300,Severe,Very high exposure,19740000
+VO_IDN_20200529_119,Green,1,Green,0.5,Indonesia,5/29/2020,5/29/2020,0,JRC,IDN,VO,VO 263350,Ijen,263350,Explosive,Very high exposure,7100000
+VO_GTM_20200729_128,Green,1,Green,0.5,Guatemala,7/29/2020,7/29/2020,0,JRC,GTM,VO,VO 342110,Pacaya,342110,Severe,Extremely high exposure,7860000
+VO_ITA_20200928_131,Green,1,Green,0.5,Italy,9/28/2020,2/21/2022,0,TOULOUSE,ITA,VO,VO 1000000,Etna,211060,Paroxysmal,Very high exposure,2750000
+VO_IDN_20201106_135,Green,1,Green,0.5,Indonesia,11/6/2020,1/28/2021,0,DARWIN,IDN,VO,VO 1000004,Merapi,263250,Cataclysmic,Maximum exposure / Highly urbanized zone,24400000
+VO_IDN_20201130_136,Green,1,Green,0.5,Indonesia,11/30/2020,12/6/2020,0,DARWIN,IDN,VO,VO 1000006,Lewotolo,264230,Severe,High exposure,460000
+VO_VUT_20201127_137,Green,1,Green,0.5,Vanuatu,11/27/2020,11/27/2020,0,JRC,VUT,VO,VO 1000005,Yasur,257100,Severe,Moderate exposure,37000
+VO_PHL_20210219_143,Orange,2,Orange,1.5,Philippines,2/19/2021,7/8/2021,0,TOKYO,PHL,VO,VO 1000012,Taal,273070,Colossal,Maximum exposure / Highly urbanized zone,29950000
+VO_GTM_20210304_146,Green,1,Green,0.5,Guatemala,3/4/2021,4/23/2021,0,JRC,GTM,VO,VO 1000014,Pacaya,342110,Severe,Extremely high exposure,7860000
+VO_COD_20210523_151,Red,3,Red,2.5,Democratic Republic of Congo,5/23/2021,6/4/2021,0,TOULOUSE,COD,VO,VO 1000023,Nyiragongo,223030,Explosive,Very high exposure,11140000
+VO_ESP_20210919_157,Orange,2,Orange,1.5,Spain,9/19/2021,12/15/2021,0,TOULOUSE,ESP,VO,VO 1000031,La Palma,383010,Explosive,High exposure,130000
+VO_USA_20210930_158,Green,1,Green,0.5,United States,9/30/2021,9/30/2021,0,WASHINGTON,USA,VO,VO 1000032,Kilauea,332010,Cataclysmic,Moderate exposure,190000
+VO_PNG_20211020_160,Green,1,Green,0.5,Papua New Guinea,10/20/2021,12/23/2021,0,DARWIN,PNG,VO,VO 1000033,Manam,251020,Cataclysmic,Moderate exposure,200000
+VO_TON_20211220_166,Red,3,Red,2.5,Tonga,12/20/2021,1/18/2022,0,DARWIN,TON,VO,VO 1000036,Hunga Tonga-Hunga Ha apai,243040,Explosive,Low exposure,80000
+VO_IDN_20211204_167,Green,1,Green,0.5,Indonesia,12/4/2021,1/3/2022,0,DARWIN,IDN,VO,VO 1000035,Semeru,263300,Severe,Very high exposure,19740000
+VO_ITA_20221009_169,Green,1,Green,0.5,Italy,10/9/2022,12/4/2022,0,TOULOUSE,ITA,VO,VO 1000053,Stromboli,211040,Severe,Moderate exposure,1000000
+VO_PHL_20230609_170,Orange,2,Orange,1.5,Philippines,6/9/2023,8/1/2023,0,JRC,PHL,VO,VO 1000072,Mayon,273030,Cataclysmic,Extremely high exposure,4460000
+VO_ISL_20231112_171,Green,1,Green,0.5,Iceland,11/12/2023,3/18/2024,0,JRC,ISL,VO,VO 1000080,Reykjanes,371020,Cataclysmic,High exposure,290000
+VO_IDN_20231203_173,Green,1,Green,0.5,Indonesia,12/3/2023,2/29/2024,0,DARWIN,IDN,VO,VO 1000084,Marapi,261140,Explosive,Very high exposure,4450000
+VO_IDN_20240416_177,Green,1,Green,0.5,Indonesia,4/16/2024,4/29/2024,0,DARWIN,IDN,VO,VO 1000088,Ruang,267010,Cataclysmic,High exposure,360000
+VO_ISL_20240529_178,Green,1,Green,0.5,Iceland,5/29/2024,6/9/2024,0,LONDON,ISL,VO,VO 1000090,Reykjanes,371020,Cataclysmic,Low exposure,290000
+VO_IDN_20240514_179,Green,1,Green,0.5,Indonesia,5/14/2024,5/30/2024,0,DARWIN,IDN,VO,VO 1000089,Ibu,268030,Explosive,High exposure,850000
+VO_IDN_20240530_180,Green,1,Green,0.5,Indonesia,5/30/2024,5/30/2024,0,DARWIN,IDN,VO,VO 1000091,Marapi,261140,Explosive,Extremely high exposure,4450000
+VO_IDN_20241014_181,Orange,2,Orange,1.5,Indonesia,10/14/2024,11/13/2024,0,DARWIN,IDN,VO,VO 1000099,Lewotobi,264180,Severe,High exposure,740000
+VO_IDN_20250213_182,Orange,2,Orange,1.5,Indonesia,2/13/2025,3/24/2025,0,DARWIN,IDN,VO,VO 1000108,Lewotobi,264180,Severe,High exposure,740000
+VO_CRI_20250327_183,Green,1,Green,0.5,Costa Rica,3/27/2025,4/23/2025,0,WASHINGTON,CRI,VO,VO 1000110,Poas,345040,Explosive,Very high exposure,4210000
+VO_PHL_20250407_184,Orange,2,Orange,1.5,Philippines,4/7/2025,4/29/2025,0,TOKYO,PHL,VO,VO 1000112,Kanlaon,272020,Explosive,Extremely high exposure,10790000
+VO_PHL_20250429_185,Orange,2,Orange,1.5,Philippines,4/29/2025,4/29/2025,0,TOKYO,PHL,VO,VO 1000113,Bulusan,273010,Severe,Extremely high exposure,4290000
+VO_IDN_20250617_186,Orange,2,Orange,1.5,Indonesia,6/17/2025,8/1/2025,0,DARWIN,IDN,VO,VO 1000117,Lewotobi,264180,Severe,High exposure,740000
+VO_RUS_20250730_187,Green,1,Green,0.5,Russia,7/30/2025,8/4/2025,0,TOKYO,RUS,VO,VO 1000121,Klyuchevskoy,300260,Cataclysmic,Low exposure,6000
